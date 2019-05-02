@@ -1,5 +1,7 @@
 {{ define "main" }}
 
 <h1>{{.Title }}</h1>
-
+{{ range .Params.links }}
+    <a href="{{.url}}">{{.text}}</a>
+{{end}}
 {{ end }}
