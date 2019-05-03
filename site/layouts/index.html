@@ -1,7 +1,37 @@
 {{ define "main" }}
+<link href="https://fonts.googleapis.com/css?family=Patrick+Hand" rel="stylesheet">
+<style>
+body {
+    padding: 20px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+ul {
+    max-width: 400px;
+    margin-top: 15px;   
+}
+
+li {
+    border: 1px solid #ccc;
+    background-color: #f6f6f6;
+    display: inline-block;
+    padding: 5px 8px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+</style>
 
 <h1>{{.Title }}</h1>
-{{ range .Params.links }}
-    <a href="{{.url}}">{{.text}}</a>
-{{end}}
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhayley.morrey%2Fvideos%2F10161510385125316%2F&show_text=1&width=476" width="476" height="631" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+<ul>
+    {{ range .Params.links }}
+        <li><a href="{{.url}}">{{.text}}</a></li>
+    {{end}}
+</ul>
 {{ end }}
