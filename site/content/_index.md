@@ -1,9 +1,11 @@
 ---
 title: Dear Evelina
 links:
-  - text: Donate to Evelina's campaign
+  - logo: /img/justgiving-logo.png
+    text: Donate to Evelina's campaign
     url: 'https://www.justgiving.com/campaign/abrighterfutureforevelina'
-  - text: Follow Evelina's story on Instagram
+  - logo: /img/insta-logo.png
+    text: Follow Evelina's story on Instagram
     url: 'https://instagram.com/dear_evelina'
 ---
 
