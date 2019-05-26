@@ -1,7 +1,7 @@
 ---
 title: Dear Evelina
 links:
-  - logo: /img/insta-logo.png
+  - logo: /img/justgiving-logo.png
     text: Donate to Evelina's campaign
     url: 'https://www.justgiving.com/campaign/abrighterfutureforevelina'
   - logo: /img/insta-logo.png
