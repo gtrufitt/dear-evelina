@@ -1,0 +1,61 @@
+{{ define "main" }}
+    <!-- Stylesheets & Fonts --><link href="/polo/css/plugins.css" rel="stylesheet">
+    <link href="/polo/css/style.css" rel="stylesheet">
+    <link href="/polo/css/responsive.css" rel="stylesheet"> </head>
+
+    <!-- Body Inner -->    <div class="body-inner">
+
+        <!-- Content -->
+        <section id="page-content">
+            <div class="container">
+                <!-- post content -->
+                <h1>Dear Evelina - Things</h1>
+                <!-- Blog -->
+                <div id="blog" class="grid-layout post-3-columns m-b-30" data-item="post-item">
+                    
+                    {{ range .Params.things }}
+                    
+                        <!-- Post item YouTube-->
+                        <div class="post-item border">
+                            <div class="post-item-wrap">
+                                <div class="post-image">
+                                    <img src="/img/{{.image}}?nf_resize=fit&h=180" alt="Photo of {{.name}}">
+                                    <span class="post-meta-category"><a href="">{{.category}}</a></span>
+                                </div>
+                                <div class="post-item-description">
+                                    <h2><a href="{{.url}}">{{.name}}</a></h2>
+                                    <p>{{.description}}</p>
+
+                                    <a href="{{.url}}" class="item-link">Buy</a>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end: Post item YouTube-->
+                    {{end}}
+                </div>
+                <!-- end: Blog -->
+
+            </div>
+            <!-- end: post content -->
+
+        </section>
+        <!-- end: Content -->
+        
+        {{ partial "footer" . }}
+
+    </div>
+    <!-- end: Body Inner -->
+
+    <!-- Scroll top -->
+    <a id="scrollTop"><i class="icon-chevron-up1"></i><i class="icon-chevron-up1"></i></a>
+
+    <!--Plugins-->
+    <script src="/polo/js/jquery.js"></script>
+    <script src="/polo/js/plugins.js"></script>
+
+    <!--Template functions-->
+    <script src="/polo/js/functions.js"></script>
+
+
+{{ end }}

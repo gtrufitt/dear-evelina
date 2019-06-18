@@ -14,3 +14,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Links, name: links, widget: list, fields: [{label: Text, name: text, widget: string}, {label: Url, name: url, widget: string}, {label: Logo, name: logo, widget: image}]}
+      - file: "site/content/things/_index.md"
+        label: "Evelina's Things"
+        name: "things"
+        fields:
+          - {label: "Page description", name: description, widget: string}
+          - {label: Things, name: things, widget: list, fields: [{label: Name, name: name, widget: string}, {label: Url, name: url, widget: string}, {label: Description, name: description, widget: text}, {label: Picture, name: picture, widget: image}, {label: Category, name: category, widget: string}]}
