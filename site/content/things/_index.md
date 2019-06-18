@@ -1,15 +1,17 @@
 ---
-description: Evelina has lots of stuff, here are her things
+description: 'Evelina has lots of stuff, here are her things'
 things:
-  - image: insta-logo.png
+  - category: Play
+    description: >-
+      Evelina loves this arch, she plays with it all day. She plays with in the
+      morning and in the afternoon.
     name: Evelina's arch
-    description: Evelina loves this arch, she plays with it all day. She plays with in the morning and in the afternoon. 
+    picture: /img/testimg.jpeg
     url: 'https://www.justgiving.com/campaign/abrighterfutureforevelina'
-    category: Play
-  - image: insta-logo.png
-    name: Evelina's playmat
+  - category: Equipment
     description: Beautiful playmat
+    name: Evelina's playmat
+    picture: /img/insta-logo.png
     url: 'https://instagram.com/dear_evelina'
-    category: Equipment
 ---
 
