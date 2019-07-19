@@ -19,4 +19,3 @@ things:
     picture: /img/justgiving-logo.png
     url: 'https://www.theguardian.com'
 ---
-

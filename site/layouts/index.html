@@ -54,7 +54,8 @@ a:hover {
 
 <ul>
     {{ range .Params.links }}
-        <li><a href="{{.url}}">{{.text}}</a></li>
+    <li><img src="{{.logo}}?nf_resize=fit&w=100&h=400"><a href="{{.url}}">{{.text}}</a></li>
     {{end}}
 </ul>
 {{ end }}
+
