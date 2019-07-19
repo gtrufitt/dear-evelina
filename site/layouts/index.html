@@ -60,7 +60,7 @@ a:hover {
 
 <ul>
     {{ range .Params.links }}
-    <li><a href="{{.url}}">{{.text}}<img src="https://dearevelina.com/{{.logo}}?nf_resize=fit&w=100&h=30"></a></li>
+    <li><a href="{{.url}}">{{.text}}<img src="https://dearevelina.com{{.logo}}?nf_resize=fit&w=100&h=30"></a></li>
     {{end}}
 </ul>
 {{ end }}
