@@ -13,5 +13,10 @@ things:
     name: Evelina's playmat
     picture: /img/insta-logo.png
     url: 'https://instagram.com/dear_evelina'
+  - category: Toys
+    description: I really want images to work properly
+    name: Another test thing
+    picture: /img/justgiving-logo.png
+    url: 'https://www.theguardian.com'
 ---
 
