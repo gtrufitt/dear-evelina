@@ -10,7 +10,7 @@ url = ""
 category = ["Play"]
 description = "She loves this Arch"
 name = "Evelina's Arch"
-picture = "img/insta-logo.png"
+picture = "/img/testimg.jpeg"
 url = "https://amazon.com/thing"
 
 +++
