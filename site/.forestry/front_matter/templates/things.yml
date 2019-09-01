@@ -26,3 +26,5 @@ fields:
   - type: list
     name: category
     label: category
+pages:
+- site/content/things/_index.md
