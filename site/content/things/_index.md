@@ -5,8 +5,8 @@ things:
   - Toys
   description: Evelina loves this thing
   name: Another thing
-  picture: Picture path
-  url: https://amazon.com
+  picture: img
+  url: https://amazon.com/thing
 - category: Play
   description: Evelina loves this arch, she plays with it all day. She plays with
     in the morning and in the afternoon.
