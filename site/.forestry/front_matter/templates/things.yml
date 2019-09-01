@@ -9,18 +9,20 @@ fields:
   name: things
   label: things
   fields:
-  - type: list
-    name: category
-    label: category
-  - type: text
-    name: description
-    label: description
   - type: text
     name: name
     label: name
   - type: text
-    name: picture
-    label: picture
+    name: description
+    label: description
+  - name: picture
+    type: file
+    config:
+      maxSize: 250
+    label: Picture
   - type: text
     name: url
     label: url
+  - type: list
+    name: category
+    label: category
