@@ -3,18 +3,24 @@ label: Things
 hide_body: true
 fields:
 - type: text
-  name: title
-  label: title
+  name: description
+  label: description
 - type: field_group_list
-  name: links
-  label: links
+  name: things
+  label: things
   fields:
-  - type: file
-    name: logo
-    label: logo
+  - type: list
+    name: category
+    label: category
   - type: text
-    name: text
-    label: text
+    name: description
+    label: description
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: picture
+    label: picture
   - type: text
     name: url
     label: url
