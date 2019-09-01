@@ -1,6 +1,11 @@
 +++
 description = "Evelina's Things"
-draft = true
+[[things]]
+category = ["Clothes"]
+description = "Looking cool in the hot summer."
+name = "Evelina's Sunglasses"
+picture = "img/esunglasses.jpg"
+url = ""
 [[things]]
 category = ["Play"]
 description = "She loves this Arch"
