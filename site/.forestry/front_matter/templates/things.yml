@@ -23,7 +23,7 @@ fields:
   - type: text
     name: url
     label: url
-  - type: list
+  - type: text
     name: category
     label: category
 pages:
