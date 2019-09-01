@@ -4,7 +4,7 @@ description = "Evelina's Things"
 category = ["Clothes"]
 description = "Looking cool in the hot summer."
 name = "Evelina's Sunglasses"
-picture = "/img/esunglasses.jpg"
+picture = "/img/just-giving-logo.png"
 url = ""
 [[things]]
 category = ["Play"]
