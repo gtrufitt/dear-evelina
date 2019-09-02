@@ -1,6 +1,13 @@
 +++
 description = "Evelina's Things"
 [[things]]
+category = "Sleeping "
+description = "Sleeping "
+name = "Evelina loves sleeping "
+picture = "/img/A6CBFC03-AA02-4E00-985C-805B2B66732B.jpeg"
+url = ""
+categories = ["clothes", "sleeping"]
+[[things]]
 description = "Looking cool in the hot summer."
 name = "Evelina's Sunglasses"
 picture = "/img/esunglasses.jpg"
