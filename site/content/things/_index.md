@@ -11,6 +11,12 @@ category = "Play"
 description = "She loves this Arch"
 name = "Evelina's Arch"
 picture = "/img/testimg.jpeg"
-url = "https://amazon.com/thing"
+url = "https://amazon.co.uk/thing"
+[[things]]
+category = "Clothes"
+description = "SAnother with a really long description SAnother with a really long description SAnother with a really long description"
+name = "Evelina's Arch with a really long titlte "
+picture = "/img/testimg.jpeg"
+url = "https://m&S.com/thing"
 
 +++
