@@ -1,22 +1,21 @@
-+++
-description = "Evelina's Things"
-[[things]]
-category = "Clothes"
-description = "Looking cool in the hot summer."
-name = "Evelina's Sunglasses"
-picture = "/img/esunglasses.jpg"
-url = ""
-[[things]]
-category = "Play"
-description = "She loves this Arch"
-name = "Evelina's Arch"
-picture = "/img/testimg.jpeg"
-url = "https://www.amazon.co.uk/Bright-Starts-Press-Glow-Spinner/dp/B01C5L5DZ8/ref=as_li_ss_tl"
-[[things]]
-category = "Clothes"
-description = "SAnother with a really long description SAnother with a really long description SAnother with a really long description"
-name = "Evelina's Arch with a really long titlte "
-picture = "/img/testimg.jpeg"
-url = "https://m&S.com/thing"
-
-+++
+---
+description: 'Evelina has lots of stuff, here are her things'
+things:
+  - category: Play
+    description: >-
+      Evelina loves this arch, she plays with it all day. She plays with in the
+      morning and in the afternoon.
+    name: Evelina's arch
+    picture: /img/testimg.jpeg
+    url: 'https://www.justgiving.com/campaign/abrighterfutureforevelina'
+  - category: Equipment
+    description: Beautiful playmat
+    name: Evelina's playmat
+    picture: /img/insta-logo.png
+    url: 'https://instagram.com/dear_evelina'
+  - category: Toys
+    description: I really want images to work properly
+    name: Another test thing
+    picture: /img/justgiving-logo.png
+    url: 'https://www.theguardian.com'
+---

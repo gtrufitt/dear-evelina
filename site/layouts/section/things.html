@@ -14,16 +14,6 @@
                 <div id="blog" class="grid-layout post-3-columns m-b-30" data-item="post-item">
                     
                     {{ range .Params.things }}
-
-                    {{$url := newScratch}}
-                    {{ $url.Set "url" .url }}
-                    {{ if in ($url.Get "url") "amazon" }}
-                        {{ $url.Set "url" (print ($url.Get "url") "?tag=dearevelina-21") }}
-                    {{ end }}
-
-                    {{$theUrl := $url.Get "url"}}
-
-
                     
                         <!-- Post item YouTube-->
                         <div class="post-item border">
@@ -33,19 +23,9 @@
                                     <span class="post-meta-category"><a href="">{{.category}}</a></span>
                                 </div>
                                 <div class="post-item-description">
-                                    <h2>
-
-                                            
-                                        
-                                        {{ if (ne $theUrl "") }}
-                                            <a href="{{$theUrl}}">{{ .name}}</a>
-                                        {{ else }}
-                                            {{.name}}
-                                        {{ end }}
-                                        
-                                        </h2>
+                                    <h2><a href="{{.url}}">{{.name}}</a></h2>
                                     <p>{{.description}}</p>
-                                    {{ if (ne $theUrl "") }}<a href="{{$theUrl}}" class="item-link">Buy</a>{{ end }}
+                                    <a href="{{.url}}" class="item-link">Buy</a>
 
                                 </div>
                             </div>
