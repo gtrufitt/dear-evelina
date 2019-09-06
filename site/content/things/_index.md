@@ -2,6 +2,12 @@
 description = "Evelina's Things"
 [[things]]
 categories = ["physio", "featured"]
+description = "Evelina loves the peanut ball. This one is small and ideal for her age. We do loads of different physio on it from assisted crawling, high kneeling, bouncing, vestibular... the list goes on"
+name = "Peanut ball"
+picture = "/img/peanut ball.png"
+url = "https://www.amazon.co.uk/gp/product/B000NRNWQE/ref=ppx_yo_dt_b_asin_title_o01_s00"
+[[things]]
+categories = ["physio", "featured"]
 description = "We used this for elevated tummy time for Evelina but it's great for reflux"
 name = "Wedge"
 picture = "/img/wedge.png"
