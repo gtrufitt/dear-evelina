@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["travel"]
+description = "Evelina has a Basti at home but it's too big to travel with so we use this one"
+name = "Travel bath seat"
+picture = "/img/travel bath seat.JPG"
+url = "https://www.amazon.co.uk/gp/product/B00LM6JQB0/ref=ppx_yo_dt_b_asin_title_o02_s00"
+[[things]]
 categories = ["toys"]
 description = "My go to for everything but mostly you can make a great syringe clip on the side of the Triton during feeds"
 name = "Large peg clips"
