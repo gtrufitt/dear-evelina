@@ -23,8 +23,12 @@ fields:
   - type: text
     name: url
     label: url
-  - type: text
-    name: category
-    label: category
+  - type: tag_list
+    name: categories
+    label: Categories
+    description: Categories for the search
+    hidden: [false]
+    default:
+      - sensory
 pages:
 - site/content/things/_index.md

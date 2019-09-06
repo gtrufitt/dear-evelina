@@ -1,19 +1,37 @@
 +++
 description = "Evelina's Things"
 [[things]]
-category = "Clothes"
 description = "Looking cool in the hot summer."
 name = "Evelina's Sunglasses"
 picture = "/img/esunglasses.jpg"
 url = ""
+categories = ["clothes"]
 [[things]]
-category = "Play"
+categories = ["play", "sensory"]
 description = "She loves this Arch"
 name = "Evelina's Arch"
 picture = "/img/testimg.jpeg"
 url = "https://amazon.co.uk/thing"
 [[things]]
-category = "Clothes"
+categories = ["play", "sensory"]
+description = "SAnother with a really long description SAnother with a really long description SAnother with a really long description"
+name = "Evelina's Arch with a really long titlte "
+picture = "/img/testimg.jpeg"
+url = "https://m&S.com/thing"
+[[things]]
+description = "Looking cool in the hot summer."
+name = "Evelina's Sunglasses"
+picture = "/img/esunglasses.jpg"
+url = ""
+categories = ["clothes"]
+[[things]]
+categories = ["play", "sensory"]
+description = "She loves this Arch"
+name = "Evelina's Arch"
+picture = "/img/testimg.jpeg"
+url = "https://amazon.co.uk/thing"
+[[things]]
+categories = ["play", "sensory"]
 description = "SAnother with a really long description SAnother with a really long description SAnother with a really long description"
 name = "Evelina's Arch with a really long titlte "
 picture = "/img/testimg.jpeg"
