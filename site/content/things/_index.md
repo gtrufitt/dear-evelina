@@ -2,6 +2,12 @@
 description = "Evelina's Things"
 [[things]]
 categories = ["toys"]
+description = "My go to for everything but mostly you can make a great syringe clip on the side of the Triton during feeds"
+name = "Large peg clips"
+picture = "/img/Screen Shot 2019-09-06 at 23.23.54.png"
+url = "https://www.amazon.co.uk/gp/product/B075CBH3QG/ref=ppx_yo_dt_b_asin_title_o04_s00"
+[[things]]
+categories = ["toys"]
 description = "This is great for encouraging Evelina to look up during tummy time - but also great for checking she's looking the right way during physio"
 name = "Tummy time mirror"
 picture = "/img/mirror.jpg"
