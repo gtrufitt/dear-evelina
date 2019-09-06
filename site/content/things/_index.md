@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["stuff"]
+description = "A portable, postural support seat. Evelina is able to go in a swing at the park in this, a shopping trolly, it attaches to regular seats so makes going out with seated support easier for her"
+name = "GoTo seat"
+picture = "/img/goto.png"
+url = "https://www.fireflyfriends.com/uk/goto-seat"
+[[things]]
 categories = ["sensory", "therapy"]
 description = "Helps increase oral awareness and motor skills needed to make sounds"
 name = "Z Vibe"
