@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["toys"]
+description = "This was a gift from a friend and Evelina loves it. Lights up and plays music to the touch and she holds the little arms"
+name = "Beatbelle small dancing robot"
+picture = "/img/beatbelle.jpg"
+url = "https://www.amazon.co.uk/Fisher-Price-FCW37-BeatBelle-Electronic-Suitable/dp/B01MRC85TR/ref=sr_1_1"
+[[things]]
 categories = ["sensory", "stuff"]
 description = "These are a great distraction for Evelina when she's on the changing mat and she'll try to reach for them"
 name = "Glow in the dark stars"
