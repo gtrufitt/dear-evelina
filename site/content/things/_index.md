@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "stuff"]
+description = "These are a great distraction for Evelina when she's on the changing mat and she'll try to reach for them"
+name = "Glow in the dark stars"
+picture = "/img/stars.JPG"
+url = "https://www.amazon.co.uk/gp/product/B0781BSR3L/ref=ppx_yo_dt_b_asin_title_o04_s00"
+[[things]]
 categories = ["sensory", "toys", "featured"]
 description = "Evelina looked up for the first time with this. It's very calming and she loves watching the fishes"
 name = "Bubble tube"
