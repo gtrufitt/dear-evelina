@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "physio"]
+description = "We also used this for Evelina for sensory play and put it on a table in front of her when she had bad reflux"
+name = "Tummy time water cushion"
+picture = "/img/Screen Shot 2019-09-06 at 23.37.04.png"
+url = "https://www.amazon.co.uk/gp/product/B07KY3XCVN/ref=ppx_yo_dt_b_asin_title_o06_s00"
+[[things]]
 categories = ["sensory"]
 description = "Great for sensory play. Evelina loved to feel this. NOTE: it's 3+ as dangerous if ingested but E doesn't put anything in her mouth but just to note to be extra careful"
 name = "Kinetic Sand"
