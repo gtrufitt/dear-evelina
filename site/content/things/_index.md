@@ -1,18 +1,18 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["clothes", "sleeping"]
 category = "Sleeping "
 description = "Sleeping "
 name = "Evelina loves sleeping "
 picture = "/img/A6CBFC03-AA02-4E00-985C-805B2B66732B.jpeg"
 url = ""
-categories = ["clothes", "sleeping"]
 [[things]]
+categories = ["clothes"]
 description = "Looking cool in the hot summer."
 name = "Evelina's Sunglasses"
 picture = "/img/esunglasses.jpg"
 url = ""
-categories = ["clothes"]
 [[things]]
 categories = ["play", "sensory"]
 description = "She loves this Arch"
@@ -26,11 +26,11 @@ name = "Evelina's Arch with a really long titlte "
 picture = "/img/testimg.jpeg"
 url = "https://m&S.com/thing"
 [[things]]
+categories = ["clothes", "sensory"]
 description = "Looking cool in the hot summer."
 name = "Evelina's Sunglasses"
 picture = "/img/esunglasses.jpg"
 url = ""
-categories = ["clothes"]
 [[things]]
 categories = ["play", "sensory"]
 description = "She loves this Arch"
