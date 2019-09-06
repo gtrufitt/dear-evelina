@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "therapy"]
+description = "Helps increase oral awareness and motor skills needed to make sounds"
+name = "Z Vibe"
+picture = "/img/Screen Shot 2019-09-06 at 23.51.58.png"
+url = "https://www.tinknstink.co.uk/ark-s-z-vibe-oral-stimulator-for-speech-feeding.html"
+[[things]]
 categories = ["Therapy"]
 description = "This cup teaches sucking and the special valve keeps liquid at the top of the straw"
 name = "Honey Bear Cup"
