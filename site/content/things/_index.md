@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["stuff"]
+description = "This is so lovely and soft and I get asked about this one a lot"
+name = "Plait cot bumper"
+picture = ""
+url = "https://www.amazon.co.uk/gp/product/B07CT2CNWQ/ref=ppx_yo_dt_b_asin_title_o05_s00"
+[[things]]
 categories = ["sensory", "physio"]
 description = "We also used this for Evelina for sensory play and put it on a table in front of her when she had bad reflux"
 name = "Tummy time water cushion"
