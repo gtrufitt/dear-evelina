@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["Therapy"]
+description = "This cup teaches sucking and the special valve keeps liquid at the top of the straw"
+name = "Honey Bear Cup"
+picture = "/img/honeybear.jpg"
+url = "https://www.tinknstink.co.uk/ark-s-ultra-bear-bottle-kit-for-straw-drinking.html"
+[[things]]
 categories = ["sensory", "physio", "featured"]
 description = "We use this as a visual tracking aid with Evelina but she also really likes to reach for it as it is encased, so safe"
 name = "Light Spinner"
