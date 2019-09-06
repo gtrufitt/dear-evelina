@@ -1,10 +1,16 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "toys", "featured"]
+description = "Evelina looked up for the first time with this. It's very calming and she loves watching the fishes"
+name = "Bubble tube"
+picture = "/img/bubble tube.jpg"
+url = "https://www.amazon.co.uk/Colour-Changing-Sensory-Lighting-Novelty/dp/B00QQGODO6/ref=asc_df_B00QQGODO6/"
+[[things]]
 categories = ["stuff"]
 description = "This is so lovely and soft and I get asked about this one a lot"
 name = "Plait cot bumper"
-picture = ""
+picture = "/img/cot bumper.JPG"
 url = "https://www.amazon.co.uk/gp/product/B07CT2CNWQ/ref=ppx_yo_dt_b_asin_title_o05_s00"
 [[things]]
 categories = ["sensory", "physio"]
