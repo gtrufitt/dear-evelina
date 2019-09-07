@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory"]
+description = "Evelina loves this as it's instant feedback when touches and great for light work for her CVI"
+name = "Fibre Optic Lamp"
+picture = "/img/fibre optic lamp.JPG"
+url = "https://www.amazon.co.uk/Nightlight-Changing-Wedding-Christmas-Decoration/dp/B07K4XXWBX/ref=asc_df_B07K4XXWBX/"
+[[things]]
 categories = ["stuff", "featured"]
 description = "Evelina has an epilepsy pillow with three dimensional fabric and a 10mm wall of air. Highly recommend"
 name = "Epilepsy Pillow"
