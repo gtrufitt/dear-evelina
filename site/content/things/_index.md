@@ -31,7 +31,7 @@ name = "Z-Vibe"
 picture = "/img/Screen Shot 2019-09-06 at 23.51.58.png"
 url = "https://www.tinknstink.co.uk/ark-s-z-vibe-oral-stimulator-for-speech-feeding.html"
 [[things]]
-categories = []
+categories = ["therapy"]
 description = "This cup teaches sucking and the special valve keeps liquid at the top of the straw"
 name = "Honey Bear Cup "
 picture = "/img/honeybear.jpg"
@@ -79,7 +79,7 @@ name = "Kinetic Sand"
 picture = "/img/kinetic sand.png"
 url = "https://www.amazon.co.uk/gp/product/B01GLOL6HY/ref=ppx_yo_dt_b_asin_title_o06_s00"
 [[things]]
-categories = ["toys", "featured"]
+categories = ["toys", "featured", "physio"]
 description = "Evelina loves this play gym. The loops are big enough to get her hands in and hold nicely and she liked pushing the beads down the side"
 name = "Wooden play gym"
 picture = "/img/wooden play gym.png"
