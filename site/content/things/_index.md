@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "therapy"]
+description = "We use these for Evelina's Snowdrop programme. They are great sensory brushes for making Evelina hyper aware of her limbs"
+name = "Sensory brushes"
+picture = "/img/Screen Shot 2019-09-07 at 08.16.58.png"
+url = "https://www.amazon.co.uk/gp/product/B072KN59GW/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1"
+[[things]]
 categories = ["sensory"]
 description = "Evelina loves this as it's instant feedback when touches and great for light work for her CVI"
 name = "Fibre Optic Lamp"
