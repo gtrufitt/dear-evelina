@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["stuff", "featured"]
+description = "Evelina has an epilepsy pillow with three dimensional fabric and a 10mm wall of air. Highly recommend"
+name = "Epilepsy Pillow"
+picture = "/img/epilepsy pillow.JPG"
+url = "https://breathe-zy.com/products/breathe-zy-anti-suffocation-pillow?gclid=Cj0KCQjwqs3rBRCdARIsADe1pfTcDD1LowlHDr9t0xHWw1BL9v07rGFRmMiAMfj2fqD_yCVN5RZGnQoaApo2EALw_wcB"
+[[things]]
 categories = ["stuff"]
 description = "A portable, postural support seat. Evelina is able to go in a swing at the park in this and a shopping trolly. It attaches to regular seats so makes going out with seated support easier for her"
 name = "GoTo seat"
