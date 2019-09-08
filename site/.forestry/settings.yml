@@ -8,7 +8,8 @@ sections:
   path: site/data
   label: Data
   create: all
-  match: "*"
+  match: "*.toml"
+  new_doc_ext: ".toml"
 - type: directory
   path: site/content
   label: Pages
