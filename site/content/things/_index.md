@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["SALT", "Feeding"]
+description = "We started to use this as Evelina had an oral aversion and it allowed her to try liquids without having anything in her mouth"
+name = "Flexi cup"
+picture = "/img/flexicup.jpg"
+url = "https://www.amazon.co.uk/Ability-Superstore-Flexi-Cups-Pink/dp/B00GIOMPUK/ref=sr_1_4?keywords=flexi+cup&qid=1571059947&s=drugstore&sr=1-4"
+[[things]]
 categories = ["sensory", "therapy"]
 description = "We use these for Evelina's Snowdrop programme. They are great sensory brushes for making Evelina hyper aware of her limbs"
 name = "Sensory brushes"
