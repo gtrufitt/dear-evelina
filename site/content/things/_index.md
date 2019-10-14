@@ -1,7 +1,7 @@
 +++
 description = "Evelina's Things"
 [[things]]
-categories = ["SALT", "Feeding"]
+categories = ["SALT", "feeding"]
 description = "We started to use this as Evelina had an oral aversion and it allowed her to try liquids without having anything in her mouth"
 name = "Flexi cup"
 picture = "/img/flexicup.jpg"
@@ -31,7 +31,7 @@ name = "GoTo seat"
 picture = "/img/goto.png"
 url = "https://www.fireflyfriends.com/uk/goto-seat"
 [[things]]
-categories = ["sensory", "therapy"]
+categories = ["sensory", "therapy", "SALT", "feeding"]
 description = "Helps increase oral awareness and motor skills needed to make sounds"
 name = "Z-Vibe"
 picture = "/img/Screen Shot 2019-09-06 at 23.51.58.png"
