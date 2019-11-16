@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = []
+description = "This is great for reaching as it spins easily but we also do 'choosing' and 'more' with it"
+name = "Musical Stacking Caterpillar"
+picture = "/img/IMG_7913.PNG"
+url = "https://www.argos.co.uk/product/8197128"
+[[things]]
 categories = ["sensory", "Vision", "Therapy"]
 description = "Great for vision work in the dark, Evelina loves these"
 name = "Fibre Optic Lights"
