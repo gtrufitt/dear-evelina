@@ -2,7 +2,7 @@
 description = "Evelina's Things"
 [[things]]
 categories = ["sensory", "Vision", "Therapy"]
-description = ""
+description = "Great for vision work in the dark, Evelina loves these"
 name = "Fibre Optic Lights"
 picture = "/img/Screen Shot 2019-11-16 at 22.05.29.png"
 url = "https://www.amazon.co.uk/dp/B00R6WYM3Q/"
