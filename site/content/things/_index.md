@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["Physio", "Therapy", "Stuff"]
+description = "This is the luxury playmat from Totter and Tumble and it's fabulous. Wipe clean, reversible and so springy."
+name = "Play Mat / Physio Mat"
+picture = "/img/IMG_8030.JPG"
+url = "https://totterandtumble.co.uk/"
+[[things]]
 categories = ["travel"]
 description = "We bought this for our holiday and Evelina had a little nap on it at home! She approves and it folds up so small for air travel"
 name = "ReadyBed travel bed"
