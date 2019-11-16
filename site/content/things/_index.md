@@ -67,7 +67,7 @@ name = "ReadyBed travel bed"
 picture = "/img/Screen Shot 2019-10-15 at 20.45.49.png"
 url = "https://www.amazon.co.uk/gp/product/B007Y50XYW/ref=ppx_yo_dt_b_asin_title_o02_s00"
 [[things]]
-categories = ["SALT", "feeding"]
+categories = ["SALT"]
 description = "We started to use this as Evelina had an oral aversion and it allowed her to try liquids without having anything in her mouth"
 name = "Flexi cup"
 picture = "/img/flexicup.jpg"
