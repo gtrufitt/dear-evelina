@@ -2,6 +2,12 @@
 description = "Evelina's Things"
 [[things]]
 categories = ["sensory", "toys"]
+description = "Not as light to press as switches but still great. Two noise settings and flashing lights. Lots of fun!"
+name = "Safari Beat Musical Drum"
+picture = "/img/IMG_7908.PNG"
+url = "https://www.amazon.co.uk/Bright-Starts-52269-6-W11-Drum-Kit/dp/B00ZIYF1IO/ref=sr_1_3"
+[[things]]
+categories = ["sensory", "toys"]
 description = "Evelina loves this one! So fascinating to watch too."
 name = "Spiral Liquid Tube"
 picture = "/img/Screen Shot 2019-11-16 at 22.14.39.png"
