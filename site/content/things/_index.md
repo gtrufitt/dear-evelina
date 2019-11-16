@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "Vision", "Therapy"]
+description = ""
+name = "Fibre Optic Lights"
+picture = "/img/Screen Shot 2019-11-16 at 22.05.29.png"
+url = "https://www.amazon.co.uk/dp/B00R6WYM3Q/"
+[[things]]
 categories = ["Physio", "Therapy", "Stuff"]
 description = "This is the luxury playmat from Totter and Tumble and it's fabulous. Wipe clean, reversible and so springy."
 name = "Play Mat / Physio Mat"
