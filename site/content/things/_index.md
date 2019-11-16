@@ -7,19 +7,19 @@ name = ""
 picture = ""
 url = ""
 [[things]]
-categories = ["Toys", "Stuff", "Featured"]
+categories = ["toys", "stuff", "featured"]
 description = "For switch adaptive toys. Great colours available and really smooth to press"
 name = "Smoothie Switch"
 picture = "/img/Screen Shot 2019-11-16 at 22.10.38.png"
 url = "http://www.inclusive.co.uk/smoothie-switch-p2533"
 [[things]]
-categories = []
+categories = ["toys"]
 description = "This is great for reaching as it spins easily but we also do 'choosing' and 'more' with it"
 name = "Musical Stacking Caterpillar"
 picture = "/img/IMG_7913.PNG"
 url = "https://www.argos.co.uk/product/8197128"
 [[things]]
-categories = ["sensory", "Vision", "Therapy"]
+categories = ["sensory", "vision", "therapy"]
 description = "Great for vision work in the dark, Evelina loves these"
 name = "Fibre Optic Lights"
 picture = "/img/Screen Shot 2019-11-16 at 22.05.29.png"
