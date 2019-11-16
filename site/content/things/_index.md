@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "toys"]
+description = "These small, squishy little beads are great for exploring and vivid colours too"
+name = "Sensory bean bags"
+picture = "/img/Screen Shot 2019-11-16 at 22.38.07-2.png"
+url = "https://www.amazon.co.uk/First-Play-Sensory-Shape-Beanbags-Multi-Colour/dp/B07BBD3PTC/ref=sr_1_1"
+[[things]]
 categories = ["stuff", "featured"]
 description = "These are ace and are used every single day for each set of meds and storage of pre made up meds"
 name = "Meds Drawers"
