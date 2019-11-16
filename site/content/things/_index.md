@@ -27,7 +27,7 @@ url = "https://www.hobbycraft.co.uk/really-useful-11-drawer-rainbow-storage-towe
 [[things]]
 categories = ["sensory", "toys"]
 description = "Not as light to press as switches but still great. Two noise settings and flashing lights. Lots of fun!"
-name = "Safari Beat Musical Drum"
+name = "Safari Beat Musical Drum "
 picture = "/img/IMG_7908.PNG"
 url = "https://www.amazon.co.uk/Bright-Starts-52269-6-W11-Drum-Kit/dp/B00ZIYF1IO/ref=sr_1_3"
 [[things]]
