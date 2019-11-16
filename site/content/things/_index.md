@@ -1,11 +1,11 @@
 +++
 description = "Evelina's Things"
 [[things]]
-categories = ["sensory"]
-description = ""
-name = ""
-picture = ""
-url = ""
+categories = ["sensory", "toys"]
+description = "Evelina loves this one! So fascinating to watch too."
+name = "Spiral Liquid Tube"
+picture = "/img/Screen Shot 2019-11-16 at 22.14.39.png"
+url = "https://www.tinknstink.co.uk/spiral-liquid-tube-timer.html"
 [[things]]
 categories = ["toys", "stuff", "featured"]
 description = "For switch adaptive toys. Great colours available and really smooth to press"
