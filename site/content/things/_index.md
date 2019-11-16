@@ -46,7 +46,7 @@ url = "http://www.inclusive.co.uk/smoothie-switch-p2533"
 categories = ["toys"]
 description = "This is great for reaching as it spins easily but we also do 'choosing' and 'more' with it"
 name = "Musical Stacking Caterpillar"
-picture = "/img/IMG_7913.PNG"
+picture = "/img/Screen Shot 2019-11-16 at 22.58.21.png"
 url = "https://www.argos.co.uk/product/8197128"
 [[things]]
 categories = ["sensory", "vision", "therapy"]
