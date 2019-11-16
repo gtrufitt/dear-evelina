@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["physio", "therapy", "featured"]
+description = "Great for assisted tummy time, propped side sitting and loads more in future"
+name = "Physio Roller"
+picture = "/img/Screen Shot 2019-11-16 at 22.42.23.png"
+url = "https://www.amazon.co.uk/gp/product/B00GYYCWCU/ref=ppx_yo_dt_b_asin_title_o01_s00"
+[[things]]
 categories = ["sensory", "toys"]
 description = "These small, squishy little beads are great for exploring and vivid colours too"
 name = "Sensory bean bags"
