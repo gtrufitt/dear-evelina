@@ -1,0 +1,19 @@
+<!-- {{ $data := getJSON "https://api.sheety.co/11736105-4272-448c-92b7-32636dc1c48a" }}
+
+{{ range $data }}
+    
+  {{ .fundraisingByMonth }}
+
+{{ end }}
+
+
+    <table>
+        <th>What</th>
+        <th>Paid</th>
+        <th>Who</th>
+        {{ range $data }}
+            <td>{{ .what }}</td>
+            <td>{{ .paid }}</td>
+            <td>{{ .when }}</td>
+        {{ end }}
+    </table> -->

@@ -7,5 +7,8 @@ links:
   - logo: /img/insta-logo.png
     text: Follow Evelina's story on Instagram
     url: 'https://instagram.com/dear_evelina'
+  - logo: 
+    text: Evelina's Things
+    url: '/things'
 ---
 
