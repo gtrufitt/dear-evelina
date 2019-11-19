@@ -27,8 +27,8 @@ fields:
     name: categories
     label: Categories
     description: Categories for the search
-    hidden: [false]
+    hidden: false
     default:
-      - sensory
+    - sensory
 pages:
 - site/content/things/_index.md
