@@ -3,9 +3,9 @@ description = "Evelina's Things"
 [[things]]
 categories = ["SALT", "therapy", "featured"]
 description = "80 seconds of recording time. Removable clear cover so you can add pictures"
-name = "Recordable switch"
-picture = "/img/Screen Shot 2019-11-20 at 13.01.49-1.png"
-url = "https://www.amazon.co.uk/gp/product/B01B4YDV42/ref=ppx_yo_dt_b_asin_title_o00_s00"
+name = "6x Recordable Switches"
+picture = "/img/Screen Shot 2019-11-20 at 13.04.33.png"
+url = "https://www.amazon.co.uk/Talking-recording-listening-activities-independent/dp/B00P14ZB9K/ref=pd_sbs_364_2/260-9902835-3473237"
 [[things]]
 categories = ["physio", "therapy", "featured"]
 description = "Great for assisted tummy time, propped side sitting and loads more in future"
@@ -30,6 +30,12 @@ description = "We use these for syringes, bottles, meds, tubes, basically anythi
 name = "Storage Drawers"
 picture = "/img/IMG_5686.JPG"
 url = "https://www.hobbycraft.co.uk/really-useful-11-drawer-rainbow-storage-tower/572895-1000"
+[[things]]
+categories = ["SALT", "therapy", "featured"]
+description = "80 seconds of recording time. Removable clear cover so you can add pictures"
+name = "Recordable switch"
+picture = "/img/Screen Shot 2019-11-20 at 13.01.49-1.png"
+url = "https://www.amazon.co.uk/gp/product/B01B4YDV42/ref=ppx_yo_dt_b_asin_title_o00_s00"
 [[things]]
 categories = ["sensory", "toys"]
 description = "Not as light to press as switches but still great. Two noise settings and flashing lights. Lots of fun!"
