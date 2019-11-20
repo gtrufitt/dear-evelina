@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["SALT", "therapy", "featured"]
+description = "80 seconds of recording time. Removable clear cover so you can add pictures"
+name = "Recordable switch"
+picture = "/img/Screen Shot 2019-11-20 at 13.01.49-1.png"
+url = "https://www.amazon.co.uk/gp/product/B01B4YDV42/ref=ppx_yo_dt_b_asin_title_o00_s00"
+[[things]]
 categories = ["physio", "therapy", "featured"]
 description = "Great for assisted tummy time, propped side sitting and loads more in future"
 name = "Physio Roller"
