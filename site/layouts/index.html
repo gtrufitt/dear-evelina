@@ -64,5 +64,18 @@ a:hover {
     <li><a href="{{.url}}">{{.text}}<img src="https://dearevelina.com{{.logo}}?nf_resize=fit&w=200&h=60"></a></li>
     {{end}}
 </ul>
+
+
+<script>
+	(function() {
+		var script = document.createElement('script');
+		window.counter = 'https://dearevelina.goatcounter.com/count'
+		script.async = 1;
+		script.src = '//gc.zgo.at/count.js';
+
+		var ins = document.getElementsByTagName('script')[0];
+		ins.parentNode.insertBefore(script, ins)
+	})();
+</script>
 {{ end }}
 
