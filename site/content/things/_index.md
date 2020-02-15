@@ -1,6 +1,18 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["SALT", "featured", "therapy", "vision"]
+description = "6 colours, 45 seconds recording time, removable cover to add pictures. Sensitive to touch and works in corners unlike TalkTile"
+name = "Big-Point Recordable Button 6pk"
+picture = "/img/Screen Shot 2020-01-23 at 10.01.21-1.png"
+url = "https://www.tts-group.co.uk/big-point-recordable-button-6pk/EL00389.html?gclid=CjwKCAiAjMHwBRAVEiwAzdLWGJ2nSiSoLrrCGZNSKryJLLQ2razcKkd1wtatmPMtswuANADrNLQhzxoCBnEQAvD_BwE"
+[[things]]
+categories = ["physio", "featured"]
+description = "We used this for elevated tummy time for Evelina but it's great for reflux"
+name = "Wedge"
+picture = "/img/IMG_3225.JPG"
+url = "https://www.amazon.co.uk/gp/product/B01M3419RF/ref=ppx_yo_dt_b_asin_title_o01_s00"
+[[things]]
 categories = ["physio", "therapy", "featured"]
 description = "Great for assisted tummy time, propped side sitting and loads more in future"
 name = "Physio Roller"
@@ -101,7 +113,7 @@ categories = ["sensory", "therapy", "SALT"]
 description = "Helps increase oral awareness and motor skills needed to make sounds"
 name = "Z-Vibe"
 picture = "/img/Screen Shot 2019-09-06 at 23.51.58.png"
-url = "https://www.tinknstink.co.uk/ark-s-z-vibe-oral-stimulator-for-speech-feeding.html"
+url = "https://www.amazon.co.uk/dp/B00FWDWZ3A/ref=twister_B00ZZELWAI"
 [[things]]
 categories = ["therapy", "SALT"]
 description = "This cup teaches sucking and the special valve keeps liquid at the top of the straw"
@@ -132,12 +144,6 @@ description = "Evelina looked up for the first time with this. It's very calming
 name = "Bubble tube"
 picture = "/img/bubble tube.jpg"
 url = "https://www.amazon.co.uk/Colour-Changing-Sensory-Lighting-Novelty/dp/B00QQGODO6/ref=asc_df_B00QQGODO6/"
-[[things]]
-categories = ["physio", "featured"]
-description = "We used this for elevated tummy time for Evelina but it's great for reflux"
-name = "Wedge"
-picture = "/img/IMG_3225.JPG"
-url = "https://www.amazon.co.uk/gp/product/B01M3419RF/ref=ppx_yo_dt_b_asin_title_o01_s00"
 [[things]]
 categories = ["stuff"]
 description = "This is so lovely and soft and I get asked about this one a lot"
