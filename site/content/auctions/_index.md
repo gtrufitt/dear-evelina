@@ -72,11 +72,5 @@ lotnumber = 12
 name = "SIGNED PHOTO STUART PEARCE MBE"
 picture = "/img/12.png"
 url = ""
-[[auctions]]
-description = ""
-lotnumber = nil
-name = ""
-picture = ""
-url = ""
 
 +++
