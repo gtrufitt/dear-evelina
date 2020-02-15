@@ -28,7 +28,7 @@ url = ""
 description = "Signed photo of the Manchester United football team and a certificate of authenticity with a number security hologram"
 lotnumber = 5
 name = "MANCHESTER UNITED SIGNED PHOTO"
-picture = "/img/5.png"
+picture = "/img/5-1.png"
 url = ""
 [[auctions]]
 description = "Stoke City V Hull. 2x adult 2x child tickets. 7 March 2020"
