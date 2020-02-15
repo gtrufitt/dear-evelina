@@ -43,10 +43,10 @@ name = "£50 PHOTOSHOOT voucher"
 picture = "/img/7.png"
 url = ""
 [[auctions]]
-description = ""
-lotnumber = nil
-name = ""
-picture = ""
+description = "One free block of 10 swimming lessons for one child at Trentham Community Sports Centre, worth £60"
+lotnumber = 8
+name = "10 FREE SWIMMING LESSONS"
+picture = "/img/8.png"
 url = ""
 [[auctions]]
 description = ""
