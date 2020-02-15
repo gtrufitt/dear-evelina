@@ -61,10 +61,10 @@ name = "1x ADULT 1x CHILD TICKET TO PORT VALE "
 picture = "/img/10.png"
 url = ""
 [[auctions]]
-description = ""
-lotnumber = nil
-name = ""
-picture = ""
+description = "Signed photo of football manager and player.  Manager of the England national under-21 team (2007-13) the GB Olympic football team at the 2012 Olympics."
+lotnumber = 12
+name = "SIGNED PHOTO STUART PEARCE MBE"
+picture = "/img/12.png"
 url = ""
 [[auctions]]
 description = ""
