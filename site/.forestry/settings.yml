@@ -20,6 +20,11 @@ sections:
   label: Things
   create: all
   match: "**/*"
+- type: directory
+  path: site/content/auctions
+  label: Auctions
+  create: all
+  match: "**/*"
 upload_dir: site/static/img
 public_path: "/img"
 front_matter_path: ''

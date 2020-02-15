@@ -1,0 +1,92 @@
+{{ define "main" }}
+    <!-- Stylesheets & Fonts --><link href="/polo/css/plugins.css" rel="stylesheet">
+    <link href="/polo/css/style.css" rel="stylesheet">
+    <link href="/polo/css/responsive.css" rel="stylesheet"> 
+
+    <style>
+        .portfolio-description {
+            border-bottom: 1px solid #e6e6e6;
+        }
+    </style>
+
+{{ $cats := slice }}
+{{ range .Params.auctions }}
+        {{ range .categories }}
+            {{ $cats = $cats | append . }}
+        {{end}}
+{{end}}
+
+
+
+    <!-- Body Inner -->    
+    <div class="body-inner">
+<!-- Content -->
+<section id="page-content">
+        <div class="container">
+                <h1>Evelina's Silent Auction</h1>
+            
+
+
+            <!-- Portfolio -->
+            <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="20">
+                {{ range .Params.auctions }}
+
+                    {{$url := newScratch}}
+                    {{ $url.Set "url" .url }}
+                    {{ if in ($url.Get "url") "amazon" }}
+                        {{ $url.Set "url" (print ($url.Get "url") "?tag=dearevelina-21") }}
+                    {{ end }}
+
+                    {{$theUrl := $url.Get "url"}}
+
+
+                <!-- portfolio item -->
+                <div class="portfolio-item no-overlay {{ range .categories }}ct-{{ . }} {{ end }}">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-image">
+                            <a href="{{$theUrl}}"><img src="https://azhzuyujdm.cloudimg.io/width/359/x/https://dearevelina.com{{.picture}}" alt=""></a>
+                        </div>
+                        <div class="portfolio-description">
+                             
+
+                              
+                            <a href="{{$theUrl}}">
+                                <h3>{{ .name}}</h3>
+                                <p>{{.description}}</p>
+                                {{ if (ne $theUrl "") }}<span>✮ Buy ✮</span>{{ end }}
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- end: portfolio item -->
+
+                {{end}}
+
+
+            </div>
+            <!-- end: Portfolio -->
+
+        </div>
+    </section>
+    <!-- end: Content -->
+
+    {{ partial "footer" . }}
+
+</div>
+<!-- end: Body Inner -->
+
+<!-- Scroll top -->
+<a id="scrollTop"><i class="icon-chevron-up1"></i><i class="icon-chevron-up1"></i></a>
+
+<!--Plugins-->
+<script src="/polo/js/jquery.js"></script>
+<script src="/polo/js/plugins.js"></script>
+
+<!--Template functions-->
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="/polo/js/functions.js"></script>
+
+
+
+
+    {{ end }}
