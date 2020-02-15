@@ -1,16 +1,16 @@
 +++
 description = "Evelina's Auction"
 [[auctions]]
-description = ""
-lotnumber = nil
-name = ""
-picture = ""
+description = "Stoke City V Hull. 2x adult 2x child tickets. 7 March 2020"
+lotnumber = 6
+name = "4x STOKE CITY FC TICKETS"
+picture = "/img/6.png"
 url = ""
 [[auctions]]
-description = ""
-lotnumber = nil
-name = ""
-picture = ""
+description = "Signed photo of the Manchester United football team and a certificate of authenticity with a number security hologram"
+lotnumber = 5
+name = "MANCHESTER UNITED SIGNED PHOTO"
+picture = "/img/5.png"
 url = ""
 [[auctions]]
 description = "Can you hold your nerve and escape in time? Paralysis  Escape Room, Hanley. Voucher for 5 players"
