@@ -55,10 +55,10 @@ name = "SIGNED 2020 PORT VALE FOOTBALL"
 picture = "/img/9.png"
 url = ""
 [[auctions]]
-description = ""
-lotnumber = nil
-name = ""
-picture = ""
+description = "1x adult and 1x child ticket in the Bycars Road Stand to an EFL game to be played at Vale Park during the 2019/2020 season"
+lotnumber = 10
+name = "1x ADULT 1x CHILD TICKET TO PORT VALE "
+picture = "/img/10.png"
 url = ""
 [[auctions]]
 description = ""
