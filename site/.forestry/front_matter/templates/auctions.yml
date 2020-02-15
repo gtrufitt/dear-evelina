@@ -6,8 +6,8 @@ fields:
   name: description
   label: description
 - type: field_group_list
-  name: things
-  label: things
+  name: auctions
+  label: auctions
   fields:
   - type: text
     name: name
