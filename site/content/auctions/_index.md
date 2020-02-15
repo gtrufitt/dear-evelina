@@ -49,10 +49,10 @@ name = "10 FREE SWIMMING LESSONS"
 picture = "/img/8.png"
 url = ""
 [[auctions]]
-description = ""
-lotnumber = nil
-name = ""
-picture = ""
+description = "Official Port Vale football signed by entire 2020 team"
+lotnumber = 9
+name = "SIGNED 2020 PORT VALE FOOTBALL"
+picture = "/img/9.png"
 url = ""
 [[auctions]]
 description = ""
