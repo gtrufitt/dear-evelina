@@ -19,7 +19,7 @@ name = "£60 GO APE voucher"
 picture = "/img/Screen Shot 2020-02-15 at 18.17.31.png"
 url = ""
 [[auctions]]
-description = "Can you hold your nerve and escape in time? Paralysis  Escape Room, Hanley. Voucher for 5 players"
+description = "Can you hold your nerve and escape in time? Paralysis  Escape Room, Hanley (Stoke on Trent). Voucher for 5 players"
 lotnumber = 4
 name = "£80 HORROR ESCAPE ROOM voucher"
 picture = "/img/4.png"
