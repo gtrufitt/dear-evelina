@@ -37,7 +37,7 @@ name = "4x STOKE CITY FC TICKETS"
 picture = "/img/6.png"
 url = ""
 [[auctions]]
-description = "1 hour photoshoot in lovely studio in Staffordshire, with £50 to spend on prints"
+description = "1 hour photoshoot in family studio in Staffordshire, with £50 to spend on prints"
 lotnumber = 7
 name = "£50 PHOTOSHOOT voucher"
 picture = "/img/7.png"
