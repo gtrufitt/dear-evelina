@@ -31,7 +31,7 @@ name = "MANCHESTER UNITED SIGNED PHOTO"
 picture = "/img/5-1.png"
 url = ""
 [[auctions]]
-description = "Stoke City V Hull. 2x adult 2x child tickets. 7 March 2020"
+description = "Stoke City V Hull. 2x adult 2x child tickets at bet365 Stadium. 7 March 2020"
 lotnumber = 6
 name = "4x STOKE CITY FC TICKETS"
 picture = "/img/6.png"
