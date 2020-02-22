@@ -25,10 +25,10 @@ name = "£80 HORROR ESCAPE ROOM voucher"
 picture = "/img/4.png"
 url = ""
 [[auctions]]
-description = "Signed photo of the Manchester United football team and a certificate of authenticity with a number security hologram"
+description = "Signed photo of the Manchester United defender Victor Lindeolf and a certificate of authenticity with a number security hologram"
 lotnumber = 5
 name = "MANCHESTER UNITED SIGNED PHOTO"
-picture = "/img/5-1.png"
+picture = "/img/Screen Shot 2020-02-22 at 14.31.46.png"
 url = ""
 [[auctions]]
 description = "Stoke City V Hull. 2x adult 2x child tickets at bet365 Stadium. 7 March 2020"
