@@ -25,7 +25,7 @@ name = "£80 HORROR ESCAPE ROOM voucher"
 picture = "/img/4.png"
 url = ""
 [[auctions]]
-description = "Signed photo of the Manchester United defender Victor Lindelöf and a certificate of authenticity with a number security hologram"
+description = "Signed photo of Manchester United defender Victor Lindelöf and a certificate of authenticity with a number security hologram"
 lotnumber = 5
 name = "MANCHESTER UNITED SIGNED PHOTO"
 picture = "/img/Screen Shot 2020-02-22 at 14.31.46.png"
