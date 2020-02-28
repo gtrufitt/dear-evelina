@@ -25,11 +25,8 @@
         <div class="container">
             <h1>Evelina's Secret Auction</h1>
             <p>Raising funds for <a href="https://www.justgiving.com/fundraising/evelina-no-tube" style="text-decoration: underline;">Evelina's trip to NoTube</a> via Just4Children.</p>
-            <p>In a secret auction you can’t see the other bids - place the highest bid you’d be willing to pay and when the countdown ends the highest will win the prize.</p>
-            <p>When the auction ends, if the highest bid on any lot is duplicated, the earliest bid will win.</p>
-<p><a style="text-decoration: underline;" href="https://docs.google.com/document/d/17TEdrh8KOUl63IaU8vD40yeSKC5U_Hk2Kb4WaYaDDlQ/preview">Please read the secret auction T&Cs before bidding.</a></p>
             
-            <div class="countdown">
+            <!-- <div class="countdown">
             <h3>Bidding closes in</h3>
             <ul>
               <li><span id="days"></span>days</li>
@@ -37,7 +34,10 @@
               <li><span id="minutes"></span>Minutes</li>
               <li><span id="seconds"></span>Seconds</li>
             </ul>
-          </div>
+          </div> -->
+
+          <h3>Bidding is closed.</h3>
+          <p>Thank you for supporting Evelina! Congratulations to the winners, you will be contacted shortly.</p>
 
             <!-- Portfolio -->
             <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="20">
@@ -47,17 +47,23 @@
                 <div class="portfolio-item no-overlay {{ range .categories }}ct-{{ . }} {{ end }}">
                     <div class="portfolio-item-wrap">
                         <div class="portfolio-image">
-                            <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#"><img src="https://azhzuyujdm.cloudimg.io/v7/dearevelina.com{{.picture}}?w=720&q=70&force_format=jpeg&sharp=1" width="356" alt="{{ .name}}"></a>
+                            <!-- <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#"> -->
+                                <a>
+                                <img src="https://azhzuyujdm.cloudimg.io/v7/dearevelina.com{{.picture}}?w=720&q=70&force_format=jpeg&sharp=1" width="356" alt="{{ .name}}">
+                                </a>
+                            <!-- </a> -->
                         </div>
                         <div class="portfolio-description">
                              
 
                               
-                            <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#">
+                            <!-- <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#"> -->
+                                <a>
                                 <h3>{{ .name}} (Lot {{ .lotnumber}})</h3>
                                 <p>{{.description}}</p>
-                                <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#">✨Bid Now ✨</a> 
-                            </a>
+                                <!-- <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#">✨Bid Now ✨</a>  -->
+                            </a>    
+                            <!-- </a> -->
                         </div>
                     </div>
                 </div>
@@ -68,6 +74,10 @@
 
             </div>
             <!-- end: Portfolio -->
+
+            <p>In a secret auction you can’t see the other bids - place the highest bid you’d be willing to pay and when the countdown ends the highest will win the prize.</p>
+            <p>When the auction ends, if the highest bid on any lot is duplicated, the earliest bid will win.</p>
+<p><a style="text-decoration: underline;" href="https://docs.google.com/document/d/17TEdrh8KOUl63IaU8vD40yeSKC5U_Hk2Kb4WaYaDDlQ/preview">Please read the secret auction T&Cs before bidding.</a></p>
 
         </div>
     </section>
@@ -81,7 +91,7 @@
 
 {{ range .Params.auctions }}
  <!--Modal large -->
- <div class="modal fade" id="modal-{{ .lotnumber}}" tabindex="-1" role="modal" aria-labelledby="modal-label-{{ .lotnumber}}"
+ <!-- <div class="modal fade" id="modal-{{ .lotnumber}}" tabindex="-1" role="modal" aria-labelledby="modal-label-{{ .lotnumber}}"
  aria-hidden="true">
  <div class="modal-dialog modal-lg">
      <div class="modal-content">
@@ -97,7 +107,7 @@
          </div>
      </div>
  </div>
-</div>
+</div> -->
 <!-- end: Modal large -->
 {{end}}
 
@@ -115,7 +125,7 @@
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="/polo/js/functions.js"></script>
 
-<script>
+<!-- <script>
 const second = 1000,
       minute = second * 60,
       hour = minute * 60,
@@ -139,11 +149,11 @@ let countDown = new Date('Feb 28, 2020 21:00:00').getTime(),
       //}
 
     }, second)
-</script>
+</script> -->
 
 <style>
 
-.modal-body {
+/* .modal-body {
     -webkit-overflow-scrolling:touch; 
     overflow:auto;
 }
@@ -151,40 +161,40 @@ let countDown = new Date('Feb 28, 2020 21:00:00').getTime(),
 .modal iframe {
     width: 100%;
     height: 75vh;
-}
+} */
 
-.countdown {
-    margin-bottom: 20px;
-}
+/* // .countdown {
+//     margin-bottom: 20px;
+// }
 
-.countdown h3 {
-    margin-bottom: 0;
-}
+// .countdown h3 {
+//     margin-bottom: 0;
+// }
 
-.countdown li {
-  display: inline-block;
-  font-size: 1em;
-  list-style-type: none;
-  margin-right: 15px;
-  padding: 0;
-  text-transform: uppercase;
-}
+// .countdown li {
+//   display: inline-block;
+//   font-size: 1em;
+//   list-style-type: none;
+//   margin-right: 15px;
+//   padding: 0;
+//   text-transform: uppercase;
+// }
 
-@media only screen and (min-width: 600px) {
-    .countdown li {
-        font-size: 2em;
-    }
-}
+// @media only screen and (min-width: 600px) {
+//     .countdown li {
+//         font-size: 2em;
+//     }
+// }
 
-.countdown li span {
-  display: block;
-  font-size: 2em;
-  line-height: 1em;
-}
+// .countdown li span {
+//   display: block;
+//   font-size: 2em;
+//   line-height: 1em;
+// }
 
-.countdown li span:before {
-    display: none;
-}
+// .countdown li span:before {
+//     display: none;
+// } */
 </style>
 
 
