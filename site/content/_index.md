@@ -7,9 +7,9 @@ links:
 - logo: "/img/insta-logo.png"
   text: Follow Evelina's story on Instagram
   url: https://instagram.com/dear_evelina
-- logo: ''
-  text: Evelina’s Secret Auction
-  url: "/auctions"
+- logo: "/img/insta-logo.png"
+  text: Evelina’s Daddy on Instagram
+  url: https://instagram.com/evelinas_daddy
 - logo: 
   text: Evelina's Things
   url: "/things"
