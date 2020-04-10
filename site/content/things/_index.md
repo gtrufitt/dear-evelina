@@ -1,17 +1,17 @@
 +++
 description = "Evelina's Things"
 [[things]]
-categories = ["sensory"]
-description = "This we wrap with a sling to lift Evelina's legs and turn it into an indoor swing. We wrap a scarf around the back straps for head support"
-name = "Door bouncer"
-picture = "/img/Screenshot 2020-04-10 at 14.39.29.png"
-url = "https://www.amazon.co.uk/Bright-Starts-Door-Jumper-Bounce/dp/B016OOD6XI/ref=sr_1_1"
-[[things]]
 categories = ["SALT", "featured", "therapy", "vision"]
 description = "6 colours, 45 seconds recording time, removable cover to add pictures. Sensitive to touch and works in corners unlike TalkTile"
 name = "Big-Point Recordable Button 6pk"
-picture = "/img/Screen Shot 2020-01-23 at 10.01.21-1.png"
+picture = "/img/unnamed.jpg"
 url = "https://www.tts-group.co.uk/big-point-recordable-button-6pk/EL00389.html?gclid=CjwKCAiAjMHwBRAVEiwAzdLWGJ2nSiSoLrrCGZNSKryJLLQ2razcKkd1wtatmPMtswuANADrNLQhzxoCBnEQAvD_BwE"
+[[things]]
+categories = ["physio", "featured"]
+description = "We used this for elevated tummy time for Evelina but it's great for reflux"
+name = "Wedge"
+picture = "/img/1-1.jpg"
+url = "https://www.amazon.co.uk/gp/product/B01M3419RF/ref=ppx_yo_dt_b_asin_title_o01_s00"
 [[things]]
 categories = ["physio", "featured"]
 description = "Evelina loves the peanut ball. This one is small and ideal for her age. We do loads of different physio on it from assisted crawling, high kneeling, bouncing, vestibular... the list goes on"
@@ -19,11 +19,11 @@ name = "Peanut ball"
 picture = "/img/peanut ball.png"
 url = "https://www.amazon.co.uk/gp/product/B000NRNWQE/ref=ppx_yo_dt_b_asin_title_o01_s00"
 [[things]]
-categories = ["physio", "featured"]
-description = "We used this for elevated tummy time for Evelina but it's great for reflux"
-name = "Wedge"
-picture = "/img/1-1.jpg"
-url = "https://www.amazon.co.uk/gp/product/B01M3419RF/ref=ppx_yo_dt_b_asin_title_o01_s00"
+categories = ["sensory"]
+description = "This we wrap with a sling to lift Evelina's legs and turn it into an indoor swing. We wrap a scarf around the back straps for head support"
+name = "Door bouncer"
+picture = "/img/Screenshot 2020-04-10 at 14.39.29.png"
+url = "https://www.amazon.co.uk/Bright-Starts-Door-Jumper-Bounce/dp/B016OOD6XI/ref=sr_1_1"
 [[things]]
 categories = ["physio", "therapy", "featured"]
 description = "Great for assisted tummy time, propped side sitting and loads more in future"
