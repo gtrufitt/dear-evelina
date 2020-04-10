@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = []
+description = "We have two cameras and can do a split screen on the monitor. Great help for when Evelina turns so we can check for seizures"
+name = "Baby Monitor"
+picture = "/img/Screenshot 2020-04-10 at 14.37.53.png"
+url = "https://www.amazon.co.uk/KODAK-Cherish-C525-Video-Monitor/dp/B07QTL2C2M/ref=sr_1_1_sspa"
+[[things]]
 categories = ["SALT", "featured", "therapy", "vision"]
 description = "6 colours, 45 seconds recording time, removable cover to add pictures. Sensitive to touch and works in corners unlike TalkTile"
 name = "Big-Point Recordable Button 6pk"
