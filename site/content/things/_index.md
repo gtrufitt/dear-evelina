@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory"]
+description = "This we wrap with a sling to lift Evelina's legs and turn it into an indoor swing. We wrap a scarf around the back straps for head support"
+name = "Door bouncer"
+picture = "/img/Screenshot 2020-04-10 at 14.39.29.png"
+url = "https://www.amazon.co.uk/Bright-Starts-Door-Jumper-Bounce/dp/B016OOD6XI/ref=sr_1_1"
+[[things]]
 categories = ["SALT", "featured", "therapy", "vision"]
 description = "6 colours, 45 seconds recording time, removable cover to add pictures. Sensitive to touch and works in corners unlike TalkTile"
 name = "Big-Point Recordable Button 6pk"
