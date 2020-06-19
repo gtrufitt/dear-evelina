@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["toys", "stuff", "travel"]
+description = "I chose black for Evelina's vision. This works great on the Squiggles but also will be able to go on her pushchair and be used for travel."
+name = "Travel tray"
+picture = "/img/screen-shot-2020-06-19-at-13-00-13.png"
+url = "https://www.amazon.co.uk/dp/B074L1GR1R/ref=dp_cerb_2?"
+[[things]]
 categories = ["SALT", "featured", "therapy", "vision"]
 description = "6 colours, 45 seconds recording time, removable cover to add pictures. Sensitive to touch and works in corners unlike TalkTile"
 name = "Big-Point Recordable Button 6pk"
