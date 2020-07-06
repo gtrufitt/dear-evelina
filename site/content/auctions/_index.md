@@ -67,7 +67,7 @@ name = "£75 E L NORMAN PHOTOGRAPHY voucher"
 picture = "/img/11.png"
 url = ""
 [[auctions]]
-description = "Signed photo of football manager and player, Stuart Pearce MBE."
+description = "Signed and framed photo of football manager and player, Stuart Pearce MBE."
 lotnumber = 12
 name = "SIGNED PHOTO STUART PEARCE MBE"
 picture = "/img/Screen Shot 2020-02-23 at 18.58.23.png"

@@ -1,0 +1,56 @@
+{{ define "main" }}
+<link href="https://cdn.jsdelivr.net/npm/gutenberg-css@0.6.0/dist/gutenberg.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://sf.abarba.me/font.css">
+<style>
+    
+    body {
+        font-family: -apple-system, "SF Text",Helvetica,Arial,sans-serif;
+    }
+
+    h1, h2, h3, h4, h5 {
+        font-family: "SF Display",Helvetica,Arial,sans-serif;
+        font-weight: 200;
+    }
+
+    blockquote {    
+    font-family: "SFMono-Regular",
+    "SF Mono",
+    Consolas,
+    "Liberation Mono",
+    Menlo,
+    Courier,
+    monospace;
+    }
+
+    .fixed-header {
+        background-color: #f6f6f6 !important;
+        padding: 20px;
+       position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%; 
+        display: block;
+    }
+
+    .description {
+      font-family: "SFMono-Regular",
+      "SF Mono",
+    Consolas,
+    "Liberation Mono",
+    Menlo,
+    Courier,
+    monospace;
+      margin-bottom: 2em;
+    }
+</style>
+
+<div class="fixed-header">
+    <p>Donate</p>
+</div>
+
+<h1>{{.Title}}</h1>
+<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+<p class="description">{{ .Description }}</p>
+{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+{{ .Content }}
+{{ end }}

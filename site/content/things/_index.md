@@ -1,23 +1,47 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["toys", "stuff", "travel"]
+description = "I chose black for Evelina's vision. This works great on the Squiggles but also will be able to go on her pushchair and be used for travel."
+name = "Travel tray"
+picture = "/img/screen-shot-2020-06-19-at-13-00-13.png"
+url = "https://www.amazon.co.uk/dp/B074L1GR1R/ref=dp_cerb_2?"
+[[things]]
 categories = ["SALT", "featured", "therapy", "vision"]
 description = "6 colours, 45 seconds recording time, removable cover to add pictures. Sensitive to touch and works in corners unlike TalkTile"
 name = "Big-Point Recordable Button 6pk"
-picture = "/img/Screen Shot 2020-01-23 at 10.01.21-1.png"
+picture = "/img/unnamed.jpg"
 url = "https://www.tts-group.co.uk/big-point-recordable-button-6pk/EL00389.html?gclid=CjwKCAiAjMHwBRAVEiwAzdLWGJ2nSiSoLrrCGZNSKryJLLQ2razcKkd1wtatmPMtswuANADrNLQhzxoCBnEQAvD_BwE"
 [[things]]
 categories = ["physio", "featured"]
 description = "We used this for elevated tummy time for Evelina but it's great for reflux"
 name = "Wedge"
-picture = "/img/IMG_3225.JPG"
+picture = "/img/1-1.jpg"
 url = "https://www.amazon.co.uk/gp/product/B01M3419RF/ref=ppx_yo_dt_b_asin_title_o01_s00"
+[[things]]
+categories = ["physio", "featured"]
+description = "Evelina loves the peanut ball. This one is small and ideal for her age. We do loads of different physio on it from assisted crawling, high kneeling, bouncing, vestibular... the list goes on"
+name = "Peanut ball"
+picture = "/img/peanut ball.png"
+url = "https://www.amazon.co.uk/gp/product/B000NRNWQE/ref=ppx_yo_dt_b_asin_title_o01_s00"
+[[things]]
+categories = ["sensory"]
+description = "This we wrap with a sling to lift Evelina's legs and turn it into an indoor swing. We wrap a scarf around the back straps for head support"
+name = "Door bouncer"
+picture = "/img/Screenshot 2020-04-10 at 14.39.29.png"
+url = "https://www.amazon.co.uk/Bright-Starts-Door-Jumper-Bounce/dp/B016OOD6XI/ref=sr_1_1"
 [[things]]
 categories = ["physio", "therapy", "featured"]
 description = "Great for assisted tummy time, propped side sitting and loads more in future"
 name = "Physio Roller"
 picture = "/img/Screen Shot 2019-11-16 at 22.42.23.png"
 url = "https://www.amazon.co.uk/gp/product/B00GYYCWCU/ref=ppx_yo_dt_b_asin_title_o01_s00"
+[[things]]
+categories = []
+description = "We have two cameras and can do a split screen on the monitor. Great help for when Evelina turns so we can check for seizures"
+name = "Baby Monitor"
+picture = "/img/Screenshot 2020-04-10 at 14.37.53.png"
+url = "https://www.amazon.co.uk/KODAK-Cherish-C525-Video-Monitor/dp/B07QTL2C2M/ref=sr_1_1_sspa"
 [[things]]
 categories = ["sensory", "toys"]
 description = "These small, squishy little beads are great for exploring and vivid colours too"
@@ -168,12 +192,6 @@ description = "Evelina loves this play gym. The loops are big enough to get her 
 name = "Wooden play gym"
 picture = "/img/wooden play gym.png"
 url = "https://www.amazon.co.uk/gp/product/B001MF09WQ/ref=ppx_yo_dt_b_asin_title_o01_s00"
-[[things]]
-categories = ["physio", "featured"]
-description = "Evelina loves the peanut ball. This one is small and ideal for her age. We do loads of different physio on it from assisted crawling, high kneeling, bouncing, vestibular... the list goes on"
-name = "Peanut ball"
-picture = "/img/peanut ball.png"
-url = "https://www.amazon.co.uk/gp/product/B000NRNWQE/ref=ppx_yo_dt_b_asin_title_o01_s00"
 [[things]]
 categories = ["stuff"]
 description = "Evelina has a Basti at home but it's too big to travel with so we use this one"
