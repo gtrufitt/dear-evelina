@@ -1,7 +1,6 @@
 {{ define "main" }}
     <!-- Stylesheets & Fonts --><link href="/polo/css/plugins.css" rel="stylesheet">
     <link href="/polo/css/style.css" rel="stylesheet">
-<<<<<<< HEAD
     <link href="/polo/css/responsive.css" rel="stylesheet"> 
 
     <style>
@@ -30,38 +29,6 @@
                     <li class="active"><a href="#" data-category="*">Show All</a></li>
                     {{range $cats | uniq}}
                         <li><a href="#" data-category=".ct-{{.}}">{{title .}}</a></li>
-=======
-    <link href="/polo/css/responsive.css" rel="stylesheet">
-
-    <!-- Body Inner -->    <div class="body-inner">
-
-        <!-- Content -->
-        <section id="page-content">
-            <div class="container">
-                <!-- post content -->
-                <h1>Dear Evelina - Things</h1>
-                <!-- Blog -->
-                <div id="blog" class="grid-layout post-3-columns m-b-30" data-item="post-item">
-                    
-                    {{ range .Params.things }}
-                    
-                        <!-- Post item YouTube-->
-                        <div class="post-item border">
-                            <div class="post-item-wrap">
-                                <div class="post-image">
-                                    <img src="https://dearevelina.com{{.picture}}?nf_resize=smartcrop&h=180&w=354" alt="Photo of {{.name}}">
-                                    <span class="post-meta-category"><a href="">{{.category}}</a></span>
-                                </div>
-                                <div class="post-item-description">
-                                    <h2><a href="{{.url}}">{{.name}}</a></h2>
-                                    <p>{{.description}}</p>
-                                    <a href="{{.url}}" class="item-link">Buy</a>
-
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end: Post item YouTube-->
->>>>>>> blog start
                     {{end}}
                 </ul>
                 <div class="grid-active-title">Show All</div>
