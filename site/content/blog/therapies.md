@@ -118,6 +118,8 @@ _Cost: £400 per 6 monthly check-in and new programme._
 
 ## MASGUTOVA NEUROSENSORY REFLEX INTEGRATION (MNRI)
 
+![](/img/masgutova.JPG)
+
 > MNRI stands for the Masgutova NeuroSensory Reflex Integration Program. MNRI is a series of developmental programs that begin with the proper integration of the basic neuro-sensory reflexes that are present at birth and later play important roles in all other aspects of development of the brain.
 
 We did this in Miami, a little stop off on our way to our holiday in Florida last year. It was really interesting but strangely they didn’t let us take any videos and it was information overload (3x hours over 2x days) so, as you can imagine, looking back at notes in the evening (plus jet lag, a tubie baby, meds, general life admin and being on holiday), it was not that helpful. I’d be interested to look more into this but I definitely need to take videos, I like to watch back what I’m being told and really take it in over a few watches. It’s an awful lot of money and time wasted to not get it right and if it’s something I’m doing everyday, several times a day, I need to be certain I’m doing the right thing!
