@@ -31,14 +31,13 @@ _(All sizes and links at the bottom of this post)_
    ![](/img/img_2104.JPG)
 5. Please note how I’ve taken the best angles and if you see the wonky looking (but very sturdy and level) leg on stories in the future I kindly ask that you refrain from pointing it out for fear of me losing my shit/ bursting into tears. Fanks pals.
 
-#### Details below for anyone interested (some stuff I already had so sorry about lack of £ info):
+#### Details below:
 
-* IKEA Flisat Bench: £25
-* Foam 48 x 31 x 7cm (I had this but you can get pre-cut foam for less than £10 to fit this size)
-* Wipe clean vinyl (eBay): 50 x 140cm £5.99
+* [IKEA Flisat Bench](https://www.ikea.com/gb/en/p/flisat-childrens-table-50298418/): £25
+* [Foam 48 x 31 x 7cm](https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=995&calc=635.6233184907315&thickness=7&len=48&width=31&unit=cm) (I had this but you can get pre-cut foam for £13.52 inc. delivery)
+* [Wipe clean vinyl](https://www.ebay.co.uk/itm/COVENTRY-PVC-Leatherette-Faux-Leather-Vinyl-Available-in-35-Colours/153659023946?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649): 50 x 140cm £5.99
 * Dycem for feet: couple of £ (I just cut down some I already had)
-
-  **Tools:**
+* **Tools:**
 * Staple gun
 * Jigsaw/ handsaw
 * Sandpaper
