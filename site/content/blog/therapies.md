@@ -10,10 +10,11 @@ Either way, in Evelina’s short 23 months so far we have tried (and continue to
 
 We are very lucky that we are in the UK and have access to the National Health Service (NHS), which provides Evelina with lots of therapists and equipment for free but they cannot supply everything so we have to do many private therapies to supplement this service too.
 
-  
 Here is a list and brief description of what we have done so far and how much they cost, because, let’s face it, that’s what it all comes down to and we’d do absolutely everything we could if it was free and we had more hours in the day!
 
 ## MAES PHYSIO
+
+![](/img/anel.JPG)
 
 > MAES physio is a cerebral palsy treatment style dedicated to the neuro- developmental movement disorder in babies and children.
 
@@ -27,7 +28,7 @@ _Cost: Our private physio sessions are £90ph._
 
 > The Bobath approach focuses almost exclusively on cerebral palsy (or other neurological conditions) and combines physiotherapy, occupational therapy and speech and language therapy to create a programme focussed around play.
 
-NHS therapists are Bobath trained and there are centres around the UK (Watford and Wales I know of) for intensives for familes. 
+NHS therapists are Bobath trained and there are centres around the UK (Watford and Wales I know of) for intensives for familes.
 
 We have been to the London one (before it moved locations) for a week long intensive when Evelina was very small. It was an hour a day for a week but we didn’t find it too useful for Evelina at that time. I think she was just too small and we were already doing all of those things already.
 
@@ -36,6 +37,8 @@ We have been to the London one (before it moved locations) for a week long inten
 _Cost: The week intensive was an Early Intervention Course that they used to offer and it was a free, 1x week course._
 
 ## HBOT
+
+![](/img/hbot.JPG)
 
 > Hyperbaric Oxygen Therapy (HBOT) involves breathing almost pure oxygen in a special room or small chamber.
 >
@@ -57,6 +60,8 @@ _Cost: £300 per person (3 hour course)_
 
 ## HYDROTHERAPY
 
+![](/img/hydro.JPG)
+
 > Hydrotherapy is exercising in a pool with a temperature of 33–36oC. The warmth of the water allows your muscles to relax and eases the pain in your joints, helping you to exercise.
 >
 > The water supports your weight, which helps to relieve pain and increase the range of movement of your joints.
@@ -75,6 +80,8 @@ _Cost: EMS machine cost around £40 (used alongside occupational therapy session
 
 ## OCCUPATIONAL THERAPY
 
+![](/img/kali.JPG)
+
 We’ve been working with SMILE Therapy for Kids in Canada and having fortnightly teletherapy sessions with them, focussing on vestibular, reflex integration… just loads! They’re half hour sessions so really manageable and we get so much from them. It’s always nice to have fresh eyes and ideas on Evelina and we’ve come away with a whole host of new physio activities, which, as any therapy parent will tell you, is like Christmas! We’re still working on all of the same areas but now have a variety of exercises to break up our daily home physio sessions.
 
 [https://smiletherapyforkids.com/](https://smiletherapyforkids.com/ "https://smiletherapyforkids.com/")
@@ -82,6 +89,8 @@ We’ve been working with SMILE Therapy for Kids in Canada and having fortnightl
 _Cost: £70ph (£35p 30min) for tele-therapy sessions_
 
 ## NO TUBE FEEDING INTENSIVE
+
+![](/img/notube.JPG)
 
 > Helping children learn to eat! NoTube specialises in weaning children who are tube fed and also treat children with eating difficulties, such as refusal to eat and picky eating.
 
@@ -96,6 +105,8 @@ This is just the start of our feeding journey, we will now have to do some inten
 _Cost: €4680 for the distance programme (more for the in-house 2 week intensive in Austria). It lasts for as long as it takes to tube wean your child and then aftercare._
 
 ## SNOWDROP
+
+![](/img/snowdrop.JPG)
 
 > Snowdrop provides neuroscience based treatment, which has revolutionised the lives of many children. We know that repetition of stimulus is the way in which brain plasticity is stimulated.
 
