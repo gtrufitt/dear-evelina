@@ -1,7 +1,6 @@
 +++
 date = 2020-06-11T23:00:00Z
 description = ""
-draft = true
 title = "DIY Therapy Bench"
 
 +++
