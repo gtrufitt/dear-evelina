@@ -11,3 +11,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- site/content/blog/diy-therapy-bench.md
