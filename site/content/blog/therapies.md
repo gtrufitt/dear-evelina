@@ -26,6 +26,8 @@ _Cost: Our private physio sessions are £90ph._
 
 ## BOBATH PHYSIO
 
+![](/img/bobath.JPG)
+
 > The Bobath approach focuses almost exclusively on cerebral palsy (or other neurological conditions) and combines physiotherapy, occupational therapy and speech and language therapy to create a programme focussed around play.
 
 NHS therapists are Bobath trained and there are centres around the UK (Watford and Wales I know of) for intensives for familes.
