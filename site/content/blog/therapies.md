@@ -113,7 +113,7 @@ We did this in Miami, a little stop off on our way to our holiday in Florida las
 
 _Cost: £1000_
 
-### And these are ones we are/ would consider/ are researching (this list is going to get bigger and bigger, of course!):
+##### And these are ones we are/ would consider/ are researching (this list is going to get bigger and bigger, of course!):
 
 * NAPA INTENSIVE
 * CME/ MEDEK
