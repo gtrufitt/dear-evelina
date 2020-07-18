@@ -1,10 +1,13 @@
 {{ define "main" }}
+{{ $c := .Content }}
 <link href="https://cdn.jsdelivr.net/npm/gutenberg-css@0.6.0/dist/gutenberg.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://sf.abarba.me/font.css">
 <style>
     
     body {
         font-family: -apple-system, "SF Text",Helvetica,Arial,sans-serif;
+        padding-left: 5vw;
+        padding-right: 5vw;
     }
 
     h1, h2, h3, h4, h5 {
@@ -32,6 +35,19 @@
         display: block;
     }
 
+    .fixed-header li {
+        display: inline-block;
+        margin-right: 1em;
+    }
+
+    .fixed-header a {
+        text-decoration: none;
+    }
+
+    .fixed-header a:hover, .fixed-header a:focus  {
+        text-decoration: underline;
+    }
+
     .description {
       font-family: "SFMono-Regular",
       "SF Mono",
@@ -42,11 +58,18 @@
     monospace;
       margin-bottom: 2em;
     }
+
+    a[href^='http']:after, a[href^='ftp']:after {
+        content: '';
+    }
 </style>
 
-<div class="fixed-header">
-    <p>Donate</p>
-</div>
+<ul class="fixed-header">
+    <li><a href="https://dearevelina.com">Home</a></li>    
+    <li><a href="https://dearevelina.com/things/">Evelina's Things</a></li>
+    <li><a href="https://www.justgiving.com/campaign/abrighterfutureforevelina">Donate</a></li>
+    
+</ul>
 
 <h1>{{.Title}}</h1>
 <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
