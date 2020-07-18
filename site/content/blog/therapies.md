@@ -52,7 +52,11 @@ _Cost: The week intensive was an Early Intervention Course that they used to off
 >
 > It has been used for many years to treat diving-related illness, but it is thought to enhance healing in people with various other conditions and is used by celebrities, footballers and they even had an on-site HBOT chamber at the Olympics in 2012.
 
-It is ‘experiential’ in the UK, meaning that there aren’t enough studies on it for the NHS to recommend. It is thought that by increasing the amount of oxygen that you breathe in (up to 3x the usual amount), that more oxygen travels around the body, helping to heal it and the brain. This was something that appealed to us; non-invasive, relatively risk-free. It was just expensive and very time consuming. Our local HBOT chamber was a 45 minute drive away. We had to go 5 times a week for 7 weeks. It took 3 hours out of each day and was very physically draining for us on top of all of Evelina’s other appointments but I’d say it was something that we found beneficial. I would consider renting a home chamber when we move, but they cost around £700pm!
+It is ‘experimental’ in the UK, meaning that there aren’t enough studies on it for the NHS to recommend. 
+
+It is thought that by increasing the amount of oxygen that you breathe in (up to 3x the usual amount), that more oxygen travels around the body, helping to heal it and the brain. This was something that appealed to us; non-invasive, relatively risk-free. It was just expensive and very time consuming. Our local HBOT chamber was a 45 minute drive away. We had to go 5 times a week for 7 weeks. It took 3 hours out of each day and was very physically draining for us on top of all of Evelina’s other appointments but I’d say it was something that we found beneficial. 
+
+I would consider renting a home chamber when we move, but they cost around £700pm!
 
 _Cost: Our local one only had a private chamber which was £40ph (x40 dives) but you if you have a local MS Centre (UK), you can go in a group chamber_
 
@@ -94,7 +98,11 @@ _Cost: EMS machine cost around £40 (used alongside occupational therapy session
 
 ![](/img/kali.JPG)
 
-We’ve been working with SMILE Therapy for Kids in Canada and having fortnightly teletherapy sessions with them, focussing on vestibular, reflex integration… just loads! They’re half hour sessions so really manageable and we get so much from them. It’s always nice to have fresh eyes and ideas on Evelina and we’ve come away with a whole host of new physio activities, which, as any therapy parent will tell you, is like Christmas! We’re still working on all of the same areas but now have a variety of exercises to break up our daily home physio sessions.
+We’ve been working with SMILE Therapy for Kids in Canada and having fortnightly teletherapy sessions with them, focussing on vestibular, reflex integration… just loads! 
+
+They’re half hour sessions so really manageable and we get so much from them. It’s always nice to have fresh eyes and ideas on Evelina and we’ve come away with a whole host of new physio activities, which, as any therapy parent will tell you, is like Christmas! 
+
+We’re still working on all of the same areas but now have a variety of exercises to break up our daily home physio sessions.
 
 [https://smiletherapyforkids.com/](https://smiletherapyforkids.com/ "https://smiletherapyforkids.com/")
 
@@ -108,7 +116,9 @@ _Cost: £70ph (£35p 30min) for tele-therapy sessions_
 
 This is our newest therapy. We started Evelina’s Tube Wean in May 2020. We were initially meant to be going to the intensive in Austria on 1 June but the UK went into Covid lockdown so we switched to the distance programme instead. This only worked for us as all of Evelina’s therapies got cancelled, whilst the NHS started to set up a system for remote working and therapies, so we had a solid few months appointment free (bliss!) and were housebound so we were able to really throw ourselves into this course.
 
-It’s not for the faint of heart. It is hard work. So much hard work. And strangely very emotional. Evelina has been tube fed since birth but from doing the NoTube programme, she now eats and drinks orally. She is just learning so is still very supported by us and isn’t able to feed herself at all so it’s messy (and she is very strong) but it is one of the best therapies we have done, for sure. So much has changed in Evelina since she started her feeding journey. That exercise of her mouth everyday has been brilliant for her development. We now get little smiles (we’d never had a smile before) and she is now making lots of lovely little noises - and can get very loud (which we secretly love!!).
+It’s not for the faint of heart. It is hard work. So much hard work. And strangely very emotional. Evelina has been tube fed since birth but from doing the NoTube programme, she now eats and drinks orally. She is just learning so is still very supported by us and isn’t able to feed herself at all so it’s messy (and she is very strong) but it is one of the best therapies we have done, for sure. 
+
+So much has changed in Evelina since she started her feeding journey. That exercise of her mouth everyday has been brilliant for her development. We now get little smiles (we’d never had a smile before) and she is now making lots of lovely little noises - and can get very loud (which we secretly love!!).
 
 This is just the start of our feeding journey, we will now have to do some intensive speech and language and feeding therapies to work on Evelina’s technique and to maintain progress.
 
@@ -122,7 +132,9 @@ _Cost: €4680 for the distance programme (more for the in-house 2 week intensiv
 
 > Snowdrop provides neuroscience based treatment, which has revolutionised the lives of many children. We know that repetition of stimulus is the way in which brain plasticity is stimulated.
 
-We have been following the Snowdrop programme since Evelina was 4 months old. They assess your child and send you a daily programme of short 1-2 minute exercises to fit in throughout the day. It ties together lots of research and is a whole mix of everything; vision work, reflex integration, OT, auditory stimulation, vestibular and lots more!
+We have been following the Snowdrop programme since Evelina was 4 months old. 
+
+They assess your child and send you a daily programme of short 1-2 minute exercises to fit in throughout the day. It ties together lots of research and is a whole mix of everything; vision work, reflex integration, OT, auditory stimulation, vestibular and lots more!
 
 [https://snowdrop.cc](https://snowdrop.cc "https://snowdrop.cc")
 
@@ -134,7 +146,11 @@ _Cost: £400 per 6 monthly check-in and new programme._
 
 > MNRI stands for the Masgutova NeuroSensory Reflex Integration Program. MNRI is a series of developmental programs that begin with the proper integration of the basic neuro-sensory reflexes that are present at birth and later play important roles in all other aspects of development of the brain.
 
-We did this in Miami, a little stop off on our way to our holiday in Florida last year. It was really interesting but strangely they didn’t let us take any videos and it was information overload (3x hours over 2x days) so, as you can imagine, looking back at notes in the evening (plus jet lag, a tubie baby, meds, general life admin and being on holiday), it was not that helpful. I’d be interested to look more into this but I definitely need to take videos, I like to watch back what I’m being told and really take it in over a few watches. It’s an awful lot of money and time wasted to not get it right and if it’s something I’m doing everyday, several times a day, I need to be certain I’m doing the right thing!
+We did this in Miami, a little stop off on our way to our holiday in Florida last year. 
+
+It was really interesting but strangely they didn’t let us take any videos and it was information overload (3x hours over 2x days) so, as you can imagine, looking back at notes in the evening (plus jet lag, a tubie baby, meds, general life admin and being on holiday), it was not that helpful. 
+
+I’d be interested to look more into this but I definitely need to take videos, I like to watch back what I’m being told and really take it in over a few watches. It’s an awful lot of money and time wasted to not get it right and if it’s something I’m doing everyday, several times a day, I need to be certain I’m doing the right thing!
 
 _Cost: £1000_
 
@@ -144,7 +160,9 @@ _Cost: £1000_
 
 > CE is based on a ‘simple’ concept of human potential; meaning that everyone has the capability to learn and develop irrespective of their starting point.
 
-We have been going to Conductive Education since just before Evelina’s first birthday. Her class focuses on sensory, light work and songs but it also incorporates positioning for playing and reaching. It’s like a playgroup - there are 5 children in the class and it is grouped by abilities so the children in the class are all working on similar goals. It’s also great to be around parents who ‘get it’ and to bounce ideas off each other.
+We have been going to Conductive Education since just before Evelina’s first birthday. Her class focuses on sensory, light work and songs but it also incorporates positioning for playing and reaching. 
+
+It’s like a playgroup - there are 5 children in the class and it is grouped by abilities so the children in the class are all working on similar goals. It’s also great to be around parents who ‘get it’ and to bounce ideas off each other.
 
 _Cost: Free (but there are waiting lists to get a place in the classes as they are limited to 5 children)_
 
@@ -152,7 +170,9 @@ _Cost: Free (but there are waiting lists to get a place in the classes as they a
 
 > Cranial Osteopathy for babies & children is a gentle and non-invasive technique that aids the body's self-healing mechanism to relieve trauma or release tension and stresses in the body and the head that might have been caused during birth.
 
-I took Evelina to see an osteopath in early 2020 as she has always been an awful sleeper. It is said to help with easing the mechanical stresses affecting nerve supply from the neck and head, which in turn affect feeding, reflux etc. We only managed to go to one appointment before the UK went into Covid Lockdown but she slept so well immediately after it and seemed more settled for a few days. I would consider making it a fortnightly appointment.
+I took Evelina to see an osteopath in early 2020 as she has always been an awful sleeper. It is said to help with easing the mechanical stresses affecting nerve supply from the neck and head, which in turn affect feeding, reflux etc. 
+
+We only managed to go to one appointment before the UK went into Covid Lockdown but she slept so well immediately after it and seemed more settled for a few days. I would consider making it a fortnightly appointment.
 
 _Cost: £50 initial appointment (1 hour), £45 thereafter_
 
