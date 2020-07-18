@@ -136,10 +136,32 @@ We did this in Miami, a little stop off on our way to our holiday in Florida las
 
 _Cost: £1000_
 
-##### And these are ones we are/ would consider/ are researching (this list is going to get bigger and bigger, of course!):
+## CONDUCTIVE EDUCATION
 
-* NAPA INTENSIVE
+![](/img/Screen Shot 2019-11-16 at 22.42.23.png)
+
+> CE is based on a ‘simple’ concept of human potential; meaning that everyone has the capability to learn and develop irrespective of their starting point.
+
+We have been going to Conductive Education since just before Evelina’s first birthday. Her class focuses on sensory, light work and songs but it also incorporates positioning for playing and reaching. It’s like a playgroup - there are 5 children in the class and it is grouped by abilities so the children in the class are all working on similar goals. It’s also great to be around parents who ‘get it’ and to bounce ideas off each other.
+
+_Cost: Free (but there are waiting lists to get a place in the classes as they are limited to 5 children)_
+
+## CRANIAL OSTEOPATHY
+
+> Cranial Osteopathy for babies & children is a gentle and non-invasive technique that aids the body's self-healing mechanism to relieve trauma or release tension and stresses in the body and the head that might have been caused during birth.
+
+I took Evelina to see an osteopath in early 2020 as she has always been an awful sleeper. It is said to help with easing the mechanical stresses affecting nerve supply from the neck and head, which in turn affect feeding, reflux etc. We only managed to go to one appointment before the UK went into Covid Lockdown but she slept so well immediately after it and seemed more settled for a few days. I would consider making it a fortnightly appointment.
+
+_Cost: £50 initial appointment (1 hour), £45 thereafter_
+
+## FUTURE THERAPIES
+
+These are therapies that we are/ would consider/ are researching (this list is going to get bigger and bigger, of course!):
+
+* NAPA (INTENSIVE IN LA/BOSTON)
 * CME/ MEDEK
 * STEM CELL
 * VIBRATION THERAPY
 * MYOFUNCTIONAL THERAPY
+* ADELI MEDICAL CENTRE (INTENSIVE IN SLOVAKIA)
+* EUROMED REHABILITATION CENTER (INTENSIVE IN POLAND)
