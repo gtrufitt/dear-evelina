@@ -4,6 +4,8 @@ date: 2020-07-17
 description: An overview of therapies that we've looked at for Evelina
 
 ---
+![](/img/screen-shot-2020-07-18-at-11-27-23.png)
+
 Having a child with a brain injury means that you are forever researching new ways to unlock potential and learn new things. Some are tried and tested and recommended by professionals, whereas others are more experimental and more recommended anecdotally rather than by research studies. Or those research studies haven’t been done yet.
 
 Either way, in Evelina’s short 23 months so far we have tried (and continue to explore) lots of different therapies to help and improve her life. Some worked for us, some didn’t. What we do know is that there is no quick-fix when it comes to brain injury. The key is repetition, repetition, repetition to build those connections. But ro completely contradict myself, I also think it is very important to have a bit of variety. We do these exercises for several hours each day, it’s important that we get a chance to mix it up slightly or else we’d all be very very bored!
@@ -21,6 +23,8 @@ Here is a list and brief description of what we have done so far and how much th
 Evelina has had a private physiotherapist since she was 7 months old who we see every two weeks. She is trained in MAES and Bobath and is brilliant.
 
 [https://www.maestherapy.com/](https://www.maestherapy.com/ "https://www.maestherapy.com/")
+
+[http://www.childreninmotion.co.uk/](http://www.childreninmotion.co.uk/ "http://www.childreninmotion.co.uk/")
 
 _Cost: Our private physio sessions are £90ph._
 
@@ -73,6 +77,8 @@ We loved doing hydrotherapy with Evelina. We have currently done 2x 6 week block
 _Cost: Free on the NHS but postcode depending - we’re lucky to have a pool in our hospital but we had to ask about it. It wasn’t something that was mentioned to us. Only when we said we’d looked into it privately (almost £200 a session - way out of our price range!!) that we got told about it. Some of the specialist schools also open up their hydro pool for sessions so worth emailing them too._
 
 ## MUSCLE STIM
+
+![](/img/img_3990.JPG)
 
 > Electric Muscle Stimulation (EMS) or Therapeutic Electrical Stimulation (TES) is a fairly new therapy for children with cerebral palsy. It is a therapeutic process through which electrical impulses cause muscle contractions and help loosen muscles to then build through physiotherapy.
 
