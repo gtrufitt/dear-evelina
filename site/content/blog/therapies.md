@@ -138,7 +138,7 @@ _Cost: £1000_
 
 ## CONDUCTIVE EDUCATION
 
-![](/img/Screen Shot 2019-11-16 at 22.42.23.png)
+![](/img/smallsteps.png)
 
 > CE is based on a ‘simple’ concept of human potential; meaning that everyone has the capability to learn and develop irrespective of their starting point.
 
