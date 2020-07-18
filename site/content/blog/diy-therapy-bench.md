@@ -1,14 +1,14 @@
 +++
 date = 2020-06-11T23:00:00Z
-description = ""
+description = "We needed a therapy bench as we do a lot of floor work with Evelina and we needed something sturdy to use for high kneeling and supported playing but I was reluctant to spend £250+ on a therapy bench, so made my own."
 title = "DIY Therapy Bench"
 
 +++
-I’ve been whinging about our lack of therapy bench for a while on instagram. You’ll be pleased to know I’ve finally sorted it!
-
 ![](/img/img_3615.JPG)
 
-Therapy benches are over £300 (whaaaat!). Don’t get me started on the postcode lottery of funding but long story short is that our team doesn't provide them. I don’t know about you but we’ve got better things to spend £300 on! So I made one, at a fraction of the price and it’s working very well for us so far.
+I’ve been whinging about our lack of therapy bench for a while on instagram. You’ll be pleased to know I’ve finally sorted it!
+
+Therapy benches are over £250 (whaaaat!). Don’t get me started on the postcode lottery of funding but long story short is that our team doesn't provide them. I don’t know about you but we’ve got better things to spend £250 on! So I made one, at a fraction of the price and it’s working very well for us so far.
 
 ### Shut up and tell me how you made it…
 
@@ -41,3 +41,5 @@ _(All sizes and links at the bottom of this post)_
 * Jigsaw/ handsaw
 * Sandpaper
 * Superglue (for dycem so not essential)
+
+Please let me know if you make this, I love seeing when people share this. I'm [@dear_evelina](https://www.instagram.com/dear_evelina/) on instagram.
