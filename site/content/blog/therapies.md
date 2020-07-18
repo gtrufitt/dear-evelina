@@ -1,12 +1,14 @@
 ---
 title: Evelina's Therapies
 date: 2020-07-17
-description: An overview of therapies that we've looked at for Evelina
+description: Having a child with a brain injury means that you are forever researching
+  new ways to unlock potential and learn new things. Some are tried and tested and
+  recommended by professionals, whereas others are more experimental and more recommended
+  anecdotally rather than by research studies. Or those research studies haven’t been
+  done yet.
 
 ---
 ![](/img/screen-shot-2020-07-18-at-11-27-23.png)
-
-Having a child with a brain injury means that you are forever researching new ways to unlock potential and learn new things. Some are tried and tested and recommended by professionals, whereas others are more experimental and more recommended anecdotally rather than by research studies. Or those research studies haven’t been done yet.
 
 Either way, in Evelina’s short but very busy 2 years so far we have tried (and continue to explore) lots of different therapies to help and improve her life. Some worked for us, some didn’t. What we do know is that there is no quick-fix when it comes to brain injury. The key is repetition, repetition, repetition to build those connections. But to completely contradict myself, I also think it is very important to have a bit of variety. We do these exercises for several hours each day, it’s important that we get a chance to mix it up slightly or else we’d all be very very bored!
 
