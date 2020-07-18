@@ -56,6 +56,8 @@ _Cost: Our local one only had a private chamber which was £40ph (x40 dives) but
 
 ## TST MASSAGE
 
+![](/img/img_5771.JPG)
+
 > TST is a 'massage' therapy developed from complex clinical research. It’s aim is to help children to breathe normally using gentle pressure across the rib cage, respiratory organs, abdomen, lower back and joints. It mimics the changes in internal pressures created by healthy breathing. These pressures compress and decompress blood vessels, increasing blood flow through organ tissue strengthening the core of the body and gently bringing increased oxygen to the nerves which send signals from the joints and internal organs to the brain.
 
 We found that this was helpful for Evelina in relaxing her and we would do it every evening before bed.
