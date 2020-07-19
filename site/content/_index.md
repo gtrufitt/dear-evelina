@@ -17,7 +17,7 @@ links:
   text: Evelina's Things
   url: "/things"
 - logo: 
-  text: The Blog
+  text: Blog
   url: "/blog"
 
 ---
