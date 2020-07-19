@@ -4,11 +4,12 @@ description = "Evelina has CVI (cortical visual impairment or cerebral visual im
 title = "DIY Light box and silhouettes"
 
 +++
-![](/img/b7eb8636-14ff-47b2-a05a-4d1ac40ef17b-2.JPG)Children with CVI need simplicity when using their vision and we have found that Evelina can sometimes ‘switch off’ her vision if it’s too visually busy for her.
+![](/img/b7eb8636-14ff-47b2-a05a-4d1ac40ef17b-2.JPG)
+
+Children with CVI need simplicity when using their vision and we have found that Evelina can sometimes ‘switch off’ her vision if it’s too visually busy for her.
 
 I’d seen some light boxes to use with silhouettes but they were quite bulky and I wanted something light, that I could pack away because jeeeeez, we have a never-ending pile of equipment, don’t we all?
 
-  
 ![](/img/img_4580-2.JPG)
 
 This is an A4 USB tracing block, which I got for a few £. The plug wasn’t very sturdy so Gareth put some Gorilla putty around it and it dried really hard solid, so there is no fear of the cable coming out now.
@@ -31,7 +32,8 @@ I found that they worked better once they were laminated as they started to bend
 
 The whole thing came in at less than £20 and works really well.
 
-###   
+### 
+
 Links to buy:
 
 [A4 tracing light](https://www.ebay.co.uk/itm/A4-LED-Light-Box-Copy-Board-Drawing-Sketch-Artist-Student-Art-Doodle/173912563016?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) £3.50 + £4 delivery
