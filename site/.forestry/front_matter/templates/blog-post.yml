@@ -11,6 +11,12 @@ fields:
 - type: text
   name: description
   label: description
+- name: main_image
+  type: file
+  config:
+    maxSize: 64
+  label: Main Image
+  description: Will appear on the listings page
 pages:
 - site/content/blog/diy-light-box-and-silhouettes.md
 - site/content/blog/diy-therapy-bench.md
