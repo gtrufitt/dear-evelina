@@ -6,7 +6,7 @@ description: Having a child with a brain injury means that you are forever resea
   recommended by professionals, whereas others are more experimental and more recommended
   anecdotally rather than by research studies. Or those research studies haven’t been
   done yet.
-
+mainimage: '/img/screen-shot-2020-07-18-at-11-27-23.png'
 ---
 ![](/img/screen-shot-2020-07-18-at-11-27-23.png)
 

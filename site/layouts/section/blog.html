@@ -34,6 +34,7 @@
         left: 0;
         width: 100%; 
         display: block;
+        z-index: 1;
     }
 
     .fixed-header li {
@@ -64,6 +65,10 @@
         content: '';
     }
 
+    .blog-listing {
+        max-width: 32rem;
+    }
+
     .blog-listing a {
         text-decoration: none;
     }
@@ -71,6 +76,24 @@
     .blog-listing li {
         margin-bottom: 3em;
     }
+
+    .blog-listing-title-container {
+        position: relative;
+        margin-bottom: 1rem;
+        min-height: 70px;
+    }
+
+    .blog-listing-title {
+        left: 0;
+        position: absolute;
+        bottom: 0;
+        padding: 0.5em 1em;
+        display: block;
+        background-color: #000 !important;
+        color: #fff;
+        margin-bottom: 0;
+    }
+    
 </style>
 
 <ul class="fixed-header">
@@ -86,7 +109,12 @@
 {{ range .Pages }}
     <li>
         <a href="{{.Permalink}}">
-            <h2>{{.Title}}</h2>
+            <div class="blog-listing-title-container">
+                <h2 class="blog-listing-title">{{.Title}}</h2>
+                {{with .Params.Mainimage}}
+                    <p><img src="https://azhzuyujdm.cloudimg.io/v7/dearevelina.com{{ . | safeURL }}?w=1024&q=70&force_format=jpeg&sharp=1" alt="" /></p>
+                {{end}}
+            </div>
             <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
             <p class="description">{{ .Description }}</p>
         </a>

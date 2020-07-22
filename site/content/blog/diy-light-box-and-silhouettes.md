@@ -2,8 +2,10 @@
 date = 2020-05-27T23:00:00Z
 description = "Evelina has CVI (cortical visual impairment or cerebral visual impairment, depending on who you talk to) which is the most common cause of permanent visual impairment in children. It means that her eyes are perfectly formed but she has damage to the visual centers of the brain, which interferes with communication between the brain and the eyes."
 title = "DIY Light box and silhouettes"
+mainimage = "/img/b7eb8636-14ff-47b2-a05a-4d1ac40ef17b-2.JPG"
 
 +++
+
 ![](/img/b7eb8636-14ff-47b2-a05a-4d1ac40ef17b-2.JPG)
 
 Children with CVI need simplicity when using their vision and we have found that Evelina can sometimes ‘switch off’ her vision if it’s too visually busy for her.

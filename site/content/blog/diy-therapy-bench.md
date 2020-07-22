@@ -2,8 +2,10 @@
 date = 2020-06-11T23:00:00Z
 description = "We needed a therapy bench as we do a lot of floor work with Evelina and we needed something sturdy to use for high kneeling and supported playing but I was reluctant to spend £250+ on a therapy bench, so made my own."
 title = "DIY Therapy Bench"
+mainimage = "/img/img_3615.JPG"
 
 +++
+
 ![](/img/img_3615.JPG)
 
 I’ve been whinging about our lack of therapy bench for a while on instagram. You’ll be pleased to know I’ve finally sorted it!
@@ -18,7 +20,7 @@ _(All sizes and links at the bottom of this post)_
 
 I bought an extendable kids bench from IKEA, cut and glued foam onto the bench. I already had this foam which is why I cut it down but you can actually just buy pre-cut foam for very cheap. (All sizes and links at the bottom of this post)
 
-1. ![](/img/img_3986.PNG)
+![](/img/img_3986.PNG)
 
    I covered it in faux leather/ vinyl (the stuff that covers soft play). I chose red for Evelina’s vision impairment as it’s a lovely postbox red and I thought that would be a good contrast for her. I stapled it all the way round and then stuck it on the legs.
 
