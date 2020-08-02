@@ -18,9 +18,11 @@ Spinning helps children to figure out their balance and their centre. As an acti
 
 ![](/img/74fb1a06-1bd1-415c-8e1a-b60140b6b825.JPG)
 
-So I made a Spin Board. Or an Astronaut Board. For less than £90 (bearing in mind I already had the fabric).
+So I made a Spin Board. Or an Astronaut Board. For less than £90 (bearing in mind I already had the fabric) and minimal DIY skills. I'm actually very surprised at how easy this is. It could be much cheaper than this too but we don't have the space to be using the jigsaw so I bought all of the wood pre-cut to the specific size, which made it a very quick job! 
 
-### Here is the step by step of how I made it. (All sizes and links at the bottom of the page.)
+### Here is the step by step of how I made it. 
+
+_(All sizes and links at the bottom of this post)_
 
 I bought 2x boards at 24x32” (¾” plywood) and glued and clamped them together.
 
