@@ -1,6 +1,6 @@
 +++
 date = 2020-07-31T23:00:00Z
-description = "Spinning helps childrens to figure out their balance and their centre. As an activity, it uses both sides of the brain, therefore helping to use two sides of the body. Incredible really!"
+description = "Spinning helps children to figure out their balance and their centre. As an activity, it uses both sides of the brain, therefore helping to use two sides of the body. Incredible really!"
 mainimage = "/img/spinboard.png"
 title = "DIY Spinning Astronaut Board"
 
