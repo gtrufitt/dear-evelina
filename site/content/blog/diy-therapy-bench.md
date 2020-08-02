@@ -41,7 +41,8 @@ Please note how I’ve taken the best angles and if you see the wonky looking (b
 * [Foam 48 x 31 x 7cm](https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=995&calc=635.6233184907315&thickness=7&len=48&width=31&unit=cm) (I had this but you can get pre-cut foam for £13.52 inc. delivery)
 * [Wipe clean vinyl](https://www.ebay.co.uk/itm/COVENTRY-PVC-Leatherette-Faux-Leather-Vinyl-Available-in-35-Colours/153659023946?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649): 50 x 140cm £5.99
 * Dycem for feet: couple of £ (I just cut down some I already had)
-* **Tools:**
+
+  **Tools:**
 * Staple gun
 * Jigsaw/ handsaw
 * Sandpaper
