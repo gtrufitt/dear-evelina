@@ -35,13 +35,21 @@ I put 12 screws in the 2 large boards to make sure they were secure, then turned
 
 ![](/img/img_4510.JPG)
 
-Next you need to make sure that your bottom plate is directly in the middle, so divide the small board diameter by 2 and measure through the centre point both diagonally and vertically, making sure that your centre point is exactly half and then screw in the outer ring of the Lazy Susan to the top board.
+Next you need to make sure that your bottom plate is directly in the middle, so divide the small board diameter by 2 and measure through the centre point both diagonally and vertically...
 
-![](/img/img_8871.JPG)![](/img/img_5705.JPG)
+![](/img/img_8871.JPG)
 
-Glue on the foam to the top of the board (I got mine pre-cut and chose a luxury reflex foam at 1” thick), and leave it to stick depending on instructions.
+...making sure that your centre point is exactly half and then screw in the outer ring of the Lazy Susan to the top board.
 
-![](/img/screen-shot-2020-08-02-at-18-58-45.png)![](/img/screen-shot-2020-08-02-at-18-58-57.png)
+![](/img/img_5705.JPG)
+
+Glue on the foam to the top of the board (I got mine pre-cut and chose a luxury reflex foam at 1” thick). 
+
+![](/img/screen-shot-2020-08-02-at-18-58-45.png)
+
+Leave it to stick depending on instructions. Turn it over and used the weight of the board to help make sure it dries flat.
+
+![](/img/screen-shot-2020-08-02-at-18-58-57.png)
 
 I covered mine with vinyl wipe clean fabric (like what you cover soft play with) but you can cover it with any fabric you like, and used the staple gun to attach it to the underside of the board but if you don’t have one, you could probably use a small fitted cot sheet (have a check of the sizing but it’s about the same size as Evelina’s old Tutti Bambini crib).
 
@@ -51,7 +59,7 @@ Not essential but I was very proud of myself so I wrote my name underneath!!
 
 ![](/img/img_6819.JPG)
 
-Sit back and enjoy stress free spinning! 
+Sit back and enjoy stress free spinning!
 
 ![](/img/screen-shot-2020-08-02-at-19-04-55.png)
 
