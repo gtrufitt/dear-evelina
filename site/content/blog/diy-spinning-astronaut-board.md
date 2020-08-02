@@ -1,7 +1,7 @@
 +++
 date = 2020-07-31T23:00:00Z
 description = "Spinning helps childrens to figure out their balance and their centre. As an activity, it uses both sides of the brain, therefore helping to use two sides of the body. Incredible really!"
-mainimage = "/img/screen-shot-2020-08-02-at-19-04-55.png"
+mainimage = "/img/screen-shot-2020-08-02-at-19-08-11.png"
 title = "DIY Spinning Astronaut Board"
 
 +++
@@ -55,7 +55,7 @@ Sit back and enjoy stress free spinning!
 
 ![](/img/screen-shot-2020-08-02-at-19-04-55.png)
 
-Details below: (click for links)
+#### Details below: (click for links)
 
 * 2x boards at 24x32” (¾” plywood)
 * 10.5” board (¾” plywood): £36.91 + £9.95 (delivery) (TOTAL £46.86 inc. VAT)
@@ -67,11 +67,10 @@ Details below: (click for links)
 * [https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in](https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in "https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in")
 * Vinyl fabric
 
-**Tools:**
-
+  **Tools:**
 * Staple gun
 * No More Nails (or similar)
 * Drill
 * Clamps
 
-Let me know if you make it, I’d love to see it!! I’m @dear_evelina on instagram.
+Let me know if you make it, I’d love to see it!! I’m [@dear_evelina](www.instagram.com/dear_evelina) on instagram.
