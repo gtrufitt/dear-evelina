@@ -43,7 +43,7 @@ Next you need to make sure that your bottom plate is directly in the middle, so 
 
 ![](/img/img_5705.JPG)
 
-Glue on the foam to the top of the board (I got mine pre-cut and chose a luxury reflex foam at 1” thick). 
+Glue on the foam to the top of the board (I got mine pre-cut and chose a luxury reflex foam at 1” thick).
 
 ![](/img/screen-shot-2020-08-02-at-18-58-45.png)
 
@@ -59,30 +59,34 @@ Not essential but I was very proud of myself so I wrote my name underneath!!
 
 ![](/img/img_6819.JPG)
 
-Sit back and enjoy stress free spinning!
+Sit back and enjoy stress free spinning! (and one more good thing - it's not very wide so can be stored nicely behind the sofa, so we're not tripping over MORE equipment all day.)
 
 ![](/img/screen-shot-2020-08-02-at-19-04-55.png)
 
 #### Details below: (click for links)
 
-__Wooden Boards__
+**Wooden Boards**
+
 * 2x boards at 24x32” (¾” plywood)
 * 10.5” board (¾” plywood): £36.91 + £9.95 (delivery)
 * Total: £46.86 inc. VAT
 * [cutmyplastic.co.uk](https://www.cutmyplastic.co.uk/wood-sheets/ply/softwood/18mm/H610-W813/ "https://www.cutmyplastic.co.uk/wood-sheets/ply/softwood/18mm/H610-W813/")
 
-__Lazy Susan 12”__
+**Lazy Susan 12”**
+
 * £16.99
 * [Amazon](https://www.amazon.co.uk/gp/product/B00TQT9UCK/ref=crt_ewc_title_dp_1?ie=UTF8&smid=A1GHPIEN6Z32NM&th=1 "https://www.amazon.co.uk/gp/product/B00TQT9UCK/ref=crt_ewc_title_dp_1?ie=UTF8&smid=A1GHPIEN6Z32NM&th=1")
 
-__Foam to cover 24x32” (luxury reflex firm)__
-* £6.73 + Delivery: £7.95, VAT of £2.45 included
+**Foam to cover 24x32” (luxury reflex firm)**
+
+* £6.73 + Delivery: £7.95, VAT of £2.45 included. 
 * Total: £14.68
 * [anyfoam.co.uk](https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in "https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in")
 
-__Vinyl fabric__
+**Vinyl fabric**
 
 ##### Tools
+
 * Staple gun
 * No More Nails (or similar)
 * Drill
