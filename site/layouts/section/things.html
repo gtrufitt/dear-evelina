@@ -9,6 +9,12 @@
         }
     </style>
 
+<style>
+    #page-content {
+        padding-top: 100px;
+    }
+    </style>
+
 {{ $cats := slice }}
 {{ range .Params.things }}
         {{ range .categories }}
@@ -17,6 +23,7 @@
 {{end}}
 
 
+{{partial "fixed-header"}}
 
     <!-- Body Inner -->    
     <div class="body-inner">

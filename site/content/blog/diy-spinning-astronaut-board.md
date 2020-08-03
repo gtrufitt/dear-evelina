@@ -65,17 +65,24 @@ Sit back and enjoy stress free spinning!
 
 #### Details below: (click for links)
 
+__Wooden Boards__
 * 2x boards at 24x32” (¾” plywood)
-* 10.5” board (¾” plywood): £36.91 + £9.95 (delivery) (TOTAL £46.86 inc. VAT)
-* [https://www.cutmyplastic.co.uk/wood-sheets/ply/softwood/18mm/H610-W813/](https://www.cutmyplastic.co.uk/wood-sheets/ply/softwood/18mm/H610-W813/ "https://www.cutmyplastic.co.uk/wood-sheets/ply/softwood/18mm/H610-W813/")
-* Lazy Susan 12”: £16.99
-* [https://www.amazon.co.uk/gp/product/B00TQT9UCK/ref=crt_ewc_title_dp_1?ie=UTF8&smid=A1GHPIEN6Z32NM&th=1](https://www.amazon.co.uk/gp/product/B00TQT9UCK/ref=crt_ewc_title_dp_1?ie=UTF8&smid=A1GHPIEN6Z32NM&th=1 "https://www.amazon.co.uk/gp/product/B00TQT9UCK/ref=crt_ewc_title_dp_1?ie=UTF8&smid=A1GHPIEN6Z32NM&th=1")
-* Foam to cover 24x32” (luxury reflex firm): £6.73 + Delivery: £7.95, VAT of £2.45 included
-* Total: £14.68
-* [https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in](https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in "https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in")
-* Vinyl fabric
+* 10.5” board (¾” plywood): £36.91 + £9.95 (delivery)
+* Total: £46.86 inc. VAT
+* [cutmyplastic.co.uk](https://www.cutmyplastic.co.uk/wood-sheets/ply/softwood/18mm/H610-W813/ "https://www.cutmyplastic.co.uk/wood-sheets/ply/softwood/18mm/H610-W813/")
 
-  **Tools:**
+__Lazy Susan 12”__
+* £16.99
+* [Amazon](https://www.amazon.co.uk/gp/product/B00TQT9UCK/ref=crt_ewc_title_dp_1?ie=UTF8&smid=A1GHPIEN6Z32NM&th=1 "https://www.amazon.co.uk/gp/product/B00TQT9UCK/ref=crt_ewc_title_dp_1?ie=UTF8&smid=A1GHPIEN6Z32NM&th=1")
+
+__Foam to cover 24x32” (luxury reflex firm)__
+* £6.73 + Delivery: £7.95, VAT of £2.45 included
+* Total: £14.68
+* [anyfoam.co.uk](https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in "https://www.anyfoam.co.uk/quote.php?product=rectangle&chosen=rectangle&variable=53&calc=768&thickness=1&len=32&width=24&unit=in")
+
+__Vinyl fabric__
+
+##### Tools
 * Staple gun
 * No More Nails (or similar)
 * Drill
