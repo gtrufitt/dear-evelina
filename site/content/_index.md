@@ -1,6 +1,9 @@
 ---
 title: Dear Evelina
 links:
+- logo: ''
+  text: Shop
+  url: https://shop.dearevelina.com
 - logo: "/img/just-giving-logo.png"
   text: Donate to Evelina's campaign
   url: https://www.justgiving.com/campaign/abrighterfutureforevelina
