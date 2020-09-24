@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory"]
+description = "Evelina loves watching the lasers and the lights (as do Evelina’s parents!)"
+name = "Laser and Led Projector"
+picture = "/img/aa5988e6-0739-4d9e-9854-1dff8ae9a772.jpeg"
+url = "https://www.amazon.co.uk/dp/B088ZXXBY8"
+[[things]]
 categories = ["toys", "stuff", "travel"]
 description = "I chose black for Evelina's vision. This works great on the Squiggles but also will be able to go on her pushchair and be used for travel."
 name = "Travel tray"
