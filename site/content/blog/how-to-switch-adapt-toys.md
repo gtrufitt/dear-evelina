@@ -9,7 +9,7 @@ title = "How To Switch Adapt Toys"
 
 ![](/img/ad564ca9-8bec-4deb-90f6-be31ba620c11.jpeg)
 
-It’s any toy with an on/off option. You replace this with the switch, which means that Evelina can operate her toys with the switch. So she presses the button and it switches the toy on and off, meaning she is in control of how she plays. It's great for children with motor difficulties, who struggle to play with other toys and it gives her independence with her playing. Evelina is just so so lovely with this bunny, I can’t handle how cute she is. She waits for it to hop over to her and then strokes it. MY HEART.
+It’s any toy with an on/off option. You replace this with the switch, which means that Evelina can operate her toys with the switch. So she presses the button and it switches the toy on and off, meaning she is in control of how she plays. It's great for children with motor difficulties (Evelina has Cerebral Palsy), who struggle to play with other toys and it gives her independence with her playing. Evelina is just so so lovely with this bunny, I can’t handle how cute she is. She waits for it to hop over to her and then strokes it. MY HEART.
 
 It’s really easy to switch battery operated toys, which is ace as they come with a pretty heft price tag!
 
