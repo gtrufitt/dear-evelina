@@ -1,8 +1,8 @@
 +++
-date = 2020-10-01T23:00:00Z
+date = 2020-10-03T12:00:00Z
 description = "A quick post on how to switch your own toys to encourage independent playing for those with motor difficulties"
 draft = true
-mainimage = ""
+mainimage = "/img/ad564ca9-8bec-4deb-90f6-be31ba620c11.jpeg"
 title = "How to switch adapt toys"
 
 +++
