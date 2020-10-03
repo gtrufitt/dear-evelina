@@ -35,7 +35,7 @@ It’s really easy to switch battery operated toys, which is ace as they come wi
 
 That’s it! So easy right! Just make sure the switch you buy has the right adapter end or you’ll need another connector. We have the Smoothie switch for Evelina which is really nice - we have the big one (125mm) although there is a smaller one too (75mm) but they are both the same price. They’re low to the table so she doesn’t have to lift her hand much at all and it’s extremely sensitive to touch which is fab.
 
-#### **Details: (click for links)**
+#### **Details below: (click for links)**
 
 [Hopping bunny](https://www.amazon.co.uk/gp/product/B000H6P110/ref=ppx_yo_dt_b_search_asin_image) £13.69
 
