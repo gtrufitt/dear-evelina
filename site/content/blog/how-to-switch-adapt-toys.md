@@ -2,7 +2,7 @@
 date = 2020-10-03T11:00:00Z
 description = "A quick post on how to switch your own toys to encourage independent playing for those with motor difficulties"
 mainimage = "/img/ad564ca9-8bec-4deb-90f6-be31ba620c11.jpeg"
-title = "How to switch adapt toys"
+title = "How To Switch Adapt Toys"
 
 +++
 ### What is a switch adapted toy?
