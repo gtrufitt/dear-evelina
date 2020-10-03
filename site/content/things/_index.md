@@ -8,7 +8,7 @@ picture = "/img/ad564ca9-8bec-4deb-90f6-be31ba620c11.jpeg"
 url = "https://dearevelina.com/blog/how-to-switch-adapt-toys/"
 [[things]]
 categories = ["sensory"]
-description = "Evelina loves watching the lasers and the lights (as do Evelina’s parents!)"
+description = "How lovely are these lights! You can change the speed and colours and isolate the space colour or laser."
 name = "Laser and Led Projector"
 picture = "/img/aa5988e6-0739-4d9e-9854-1dff8ae9a772.jpeg"
 url = "https://www.amazon.co.uk/dp/B088ZXXBY8"
