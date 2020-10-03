@@ -41,4 +41,4 @@ That’s it! So easy right! Just make sure the switch you buy has the right adap
 
 [Switch adapters](http://www.inclusive.co.uk/battery-switch-adaptors-p2541) 1x £9 / 5x £42 / 10x £82
 
-[Smoothie switch]() £25 (4 pack £95)
+[Smoothie switch](http://www.inclusive.co.uk/smoothie-switch-p2533 ) £25 (4 pack £95)
