@@ -11,7 +11,7 @@ I’ve been whinging about our lack of therapy bench for a while on instagram. Y
 
 Therapy benches are over £250 (whaaaat!). Don’t get me started on the postcode lottery of funding but long story short is that our team doesn't provide them. I don’t know about you but we’ve got better things to spend £250 on! So I made one, at a fraction of the price and it’s working very well for us so far.
 
-### Shut up and tell me how you made it…
+#### Shut up and tell me how you made it…
 
 _(All sizes and links at the bottom of this post)_
 

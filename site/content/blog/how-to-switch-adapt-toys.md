@@ -5,7 +5,7 @@ mainimage = "/img/ad564ca9-8bec-4deb-90f6-be31ba620c11.jpeg"
 title = "How to switch adapt toys"
 
 +++
-#### What is a switch adapted toy?
+### What is a switch adapted toy?
 
 ![](/img/ad564ca9-8bec-4deb-90f6-be31ba620c11.jpeg)
 
@@ -13,7 +13,7 @@ It’s any toy with an on/off option. You replace this with the switch, which me
 
 It’s really easy to switch battery operated toys, which is ace as they come with a pretty heft price tag!
 
-#### You’ll need:
+### You’ll need:
 
 * Toy that has an on/off switch that is AA battery operated
 * AA battery switch adaptors
@@ -21,7 +21,7 @@ It’s really easy to switch battery operated toys, which is ace as they come wi
 
   ![](/img/7c14d609-7d94-4630-8c43-a0b9c93adea4.jpeg)
 
-#### How to do it:
+### How to do it:
 
 1. Open the battery compartment and put the switch adapter at the end of the spring between that and the battery.
 
@@ -35,7 +35,7 @@ It’s really easy to switch battery operated toys, which is ace as they come wi
 
 That’s it! So easy right! Just make sure the switch you buy has the right adapter end or you’ll need another connector. We have the Smoothie switch for Evelina which is really nice - we have the big one (125mm) although there is a smaller one too (75mm) but they are both the same price. They’re low to the table so she doesn’t have to lift her hand much at all and it’s extremely sensitive to touch which is fab.
 
-#### **Details below: (click for links)**
+#### **Details: (click for links)**
 
 [Hopping bunny](https://www.amazon.co.uk/gp/product/B000H6P110/ref=ppx_yo_dt_b_search_asin_image) £13.69
 
