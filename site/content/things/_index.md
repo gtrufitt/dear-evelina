@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "toys", "therapy"]
+description = "I switched this myself with a bunny from Amazon. Links are here"
+name = "Switch adapted bunny"
+picture = "/img/ad564ca9-8bec-4deb-90f6-be31ba620c11.jpeg"
+url = "https://dearevelina.com/blog/how-to-switch-adapt-toys/"
+[[things]]
 categories = ["sensory"]
 description = "Evelina loves watching the lasers and the lights (as do Evelina’s parents!)"
 name = "Laser and Led Projector"
