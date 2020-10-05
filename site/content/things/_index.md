@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory"]
+description = "These are ace! Really squishy, perfect size for Evelina's little hands. Clean 'messy' play"
+name = "Giant water beads"
+picture = "/img/water-beads.png"
+url = "https://www.ebay.co.uk/itm/500-Jumbo-Water-Beads-Aqua-Gel-Crystals-Bio-Gel-Balls-Wedding-Vase-Centrepiece/202605009879?_trkparms=aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20160908105057%26meid%3D239410cf720c4fe7964b8fc8d0d5e943%26pid%3D100675%26rk%3D1%26rkt%3D15%26mehot%3Dpp%26sd%3D202605009879%26itm%3D202605009879%26pmt%3D1%26noa%3D1%26pg%3D2380057&_trksid=p2380057.c100675.m4236&_trkparms=pageci%3Afa602422-071e-11eb-9f24-b2da35549a40%7Cparentrq%3Af95df9401740aaf8eebc5174fffc5084%7Ciid%3A1"
+[[things]]
 categories = ["sensory", "toys", "therapy"]
 description = "I switched this myself with a bunny from Amazon. How to post here"
 name = "Switch adapted bunny"
