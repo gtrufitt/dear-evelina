@@ -73,7 +73,7 @@ html {
 </style>
 <div class="wrapper">
     <div class="heading-text heading-gradient">
-        <h2 class=""><span>Dear Evelina</span></h2>
+        <img src="/img/DearELogo.png" alt="Dear Evelina" width="410" height="116" style="margin-left: -10px;">
         <p>All about our tiny superhero.</p>
     </div>
 
@@ -83,13 +83,34 @@ html {
             <img src="https://dearevelina.com{{.logo}}?nf_resize=fit&w=200&h=60"/>{{end}}</a></li>
         {{end}}
     </ul>
+    <style>
+        .blog-posts>.blog-list:first-child {
+            display: none;
+        }
+        
+        .blog-list {
+         padding-right: 5px;
+         padding-left: 5px;
+         padding-bottom: 10px;
+        }
 
+        .blog-list img {
+            display: block;
+            height: 200px;
+            object-fit: cover;
+        }
+    </style>
     <div class="blog-posts">
         <h2>Latest from the blog</h2>
-        <ul>
+        <ul class="blog-posts" style="width: 400px; display: flex; flex-wrap: wrap;">
             {{ range where .Site.Pages "Section" "blog" }}
-                <li>
-                    <a href="{{.Permalink}}">{{ .Title }}</a>
+                <li style="flex: 0 50%;" class="blog-list">
+                    <a href="{{.Permalink}}">
+                        {{with .Params.Mainimage}}
+                            <img src="https://azhzuyujdm.cloudimg.io/v7/dearevelina.com{{ . | safeURL }}?w=1024&q=70&force_format=jpeg&sharp=1" alt="" width="200" />
+                        {{end}}
+                        {{ .Title }}
+                    </a>
                 </li>
             {{ end }}
         </ul>
