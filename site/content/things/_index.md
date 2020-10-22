@@ -2,6 +2,12 @@
 description = "Evelina's Things"
 [[things]]
 categories = ["sensory"]
+description = "We call it the space ship! Evelina loves it"
+name = "Cause & Effect multi sensory"
+picture = "/img/screen-shot-2020-10-22-at-23-08-47.png"
+url = "https://specialneedstoys.com/uk/klickity.html?gclid=Cj0KCQjw28T8BRDbARIsAEOMBcx-51EQ6X9tVYut95SPjRD9-vA9WqLcdV7o6E7BWJBfsx5c-y_RdoMaAhoXEALw_wcB"
+[[things]]
+categories = ["sensory"]
 description = "These are ace! Really squishy, perfect size for Evelina's little hands. Clean 'messy' play"
 name = "Giant water beads"
 picture = "/img/water-beads.png"
