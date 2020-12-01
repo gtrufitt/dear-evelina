@@ -2,6 +2,12 @@
 description = "Evelina's Things"
 [[things]]
 categories = ["sensory", "salt"]
+description = "Recordable and super easy to press. We record the last line of a nursery rhyme on this for Evelina to finish the song"
+name = "Big Mack communication switch"
+picture = "/img/big-mack.JPG"
+url = "http://www.inclusive.co.uk/ablenet-bigmack-p2039"
+[[things]]
+categories = ["sensory", "salt"]
 description = "This makes a lovely noise and we practice 'ready steady go' and 'more' with it"
 name = "Wooden marble drop"
 picture = "/img/wooden-marble-drop.PNG"
