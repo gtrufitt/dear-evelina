@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "salt"]
+description = "This makes a lovely noise and we practice 'ready steady go' and 'more' with it"
+name = "Wooden marble drop"
+picture = "/img/wooden-marble-drop.PNG"
+url = "https://www.amazon.co.uk/OFKPO-Children-Colorful-Wooden-Educational/dp/B07CBWD9LB"
+[[things]]
 categories = ["sensory"]
 description = "We call it the space ship! Evelina loves it"
 name = "Cause & Effect multi sensory"
