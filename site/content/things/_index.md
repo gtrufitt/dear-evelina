@@ -1,7 +1,7 @@
 +++
 description = "Evelina's Things"
 [[things]]
-categories = ["sensory"]
+categories = ["sensory", "toys", "vision", "featured"]
 description = "This bounces and plays music - Evelina loves it."
 name = "Gravity Ball"
 picture = "/img/gravity-ball.png"
