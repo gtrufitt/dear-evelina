@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory"]
+description = "This bounces and plays music - Evelina loves it."
+name = "Gravity Ball"
+picture = "/img/gravity-ball.png"
+url = "https://www.amazon.co.uk/Hamleys-Light-Sound-Gravity-Ball/dp/B00PYIQAKW/ref=asc_df_B00PYIQAKW/"
+[[things]]
 categories = ["sensory", "salt"]
 description = "Recordable and super easy to press. We record the last line of a nursery rhyme on this for Evelina to finish the song"
 name = "Big Mack communication switch"
