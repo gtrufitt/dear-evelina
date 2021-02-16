@@ -1,0 +1,96 @@
+{{ define "main" }}
+    
+
+<link href="https://cdn.jsdelivr.net/npm/gutenberg-css@0.6.0/dist/gutenberg.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://sf.abarba.me/font.css">
+<style>
+    
+    body {
+        font-family: '-apple-system', "SF Text",Helvetica,Arial,sans-serif;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+
+    h1, h2, h3, h4, h5 {
+        font-family: "SF Display",Helvetica,Arial,sans-serif;
+        font-weight: 200;
+    }
+
+    blockquote {    
+    font-family: "SFMono-Regular",
+    "SF Mono",
+    Consolas,
+    "Liberation Mono",
+    Menlo,
+    Courier,
+    monospace;
+    }
+
+    .description {
+      font-family: "SFMono-Regular",
+      "SF Mono",
+    Consolas,
+    "Liberation Mono",
+    Menlo,
+    Courier,
+    monospace;
+      margin-bottom: 2em;
+    }
+
+    a[href^='http']:after, a[href^='ftp']:after {
+        content: '';
+    }
+
+    .blog-listing {
+        max-width: 32rem;
+    }
+
+    .blog-listing a {
+        text-decoration: none;
+    }
+
+    .blog-listing li {
+        margin-bottom: 3em;
+    }
+
+    .blog-listing-title-container {
+        position: relative;
+        margin-bottom: 1rem;
+        min-height: 70px;
+    }
+
+    .blog-listing-title {
+        left: 0;
+        position: absolute;
+        bottom: 0;
+        padding: 0.5em 1em;
+        display: block;
+        background-color: #000 !important;
+        color: #fff;
+        margin-bottom: 0;
+    }
+    
+</style>
+
+{{partial "fixed-header"}}
+
+<h1>Blog Posts</h1>
+
+<ul class="blog-listing">
+{{ range .Pages }}
+    <li>
+        <a href="{{.Permalink}}">
+            <div class="blog-listing-title-container">
+                <h2 class="blog-listing-title">{{.Title}}</h2>
+                {{with .Params.Mainimage}}
+                    <p><img src="https://azhzuyujdm.cloudimg.io/v7/dearevelina.com{{ . | safeURL }}?w=1024&q=70&force_format=jpeg&sharp=1" alt="" /></p>
+                {{end}}
+            </div>
+            <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+            <p class="description">{{ .Description }}</p>
+        </a>
+    </li>
+{{end}}
+</ul>
+
+{{ end }}

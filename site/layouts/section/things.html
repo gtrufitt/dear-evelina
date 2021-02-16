@@ -1,60 +1,109 @@
 {{ define "main" }}
     <!-- Stylesheets & Fonts --><link href="/polo/css/plugins.css" rel="stylesheet">
     <link href="/polo/css/style.css" rel="stylesheet">
-    <link href="/polo/css/responsive.css" rel="stylesheet"> </head>
+    <link href="/polo/css/responsive.css" rel="stylesheet"> 
 
-    <!-- Body Inner -->    <div class="body-inner">
+    <style>
+        .portfolio-description {
+            border-bottom: 1px solid #e6e6e6;
+        }
+    </style>
 
-        <!-- Content -->
-        <section id="page-content">
-            <div class="container">
-                <!-- post content -->
-                <h1>Dear Evelina - Things</h1>
-                <!-- Blog -->
-                <div id="blog" class="grid-layout post-3-columns m-b-30" data-item="post-item">
-                    
-                    {{ range .Params.things }}
-                    
-                        <!-- Post item YouTube-->
-                        <div class="post-item border">
-                            <div class="post-item-wrap">
-                                <div class="post-image">
-                                    <img src="https://dearevelina.com{{.picture}}?nf_resize=smartcrop&h=180&w=354" alt="Photo of {{.name}}">
-                                    <span class="post-meta-category"><a href="">{{.category}}</a></span>
-                                </div>
-                                <div class="post-item-description">
-                                    <h2><a href="{{.url}}">{{.name}}</a></h2>
-                                    <p>{{.description}}</p>
-                                    <a href="{{.url}}" class="item-link">Buy</a>
+<style>
+    #page-content {
+        padding-top: 100px;
+    }
+    </style>
 
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end: Post item YouTube-->
+{{ $cats := slice }}
+{{ range .Params.things }}
+        {{ range .categories }}
+            {{ $cats = $cats | append . }}
+        {{end}}
+{{end}}
+
+
+{{partial "fixed-header"}}
+
+    <!-- Body Inner -->    
+    <div class="body-inner">
+<!-- Content -->
+<section id="page-content">
+        <div class="container">
+                <h1>Evelina's Things</h1>
+<p>This is a list of some of Evelina's things that we've found useful for her in therapy, play and life. Some of these are affiliate links and we may make a few pence if you purchase by clicking on these links. Thank you!</p>
+            <!-- Portfolio Filter --><nav class="grid-filter gf-outline" data-layout="#portfolio">
+                <ul>
+                    <li class="active"><a href="#" data-category="*">Show All</a></li>
+                    {{range $cats | uniq}}
+                        <li><a href="#" data-category=".ct-{{.}}">{{title .}}</a></li>
                     {{end}}
+                </ul>
+                <div class="grid-active-title">Show All</div>
+            </nav>
+            <!-- end: Portfolio Filter -->
+
+
+            <!-- Portfolio -->
+            <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="20">
+                {{ range .Params.things }}
+
+                    {{$url := newScratch}}
+                    {{ $url.Set "url" .url }}
+                    {{ if in ($url.Get "url") "amazon" }}
+                        {{ $url.Set "url" (print ($url.Get "url") "?tag=dearevelina-21") }}
+                    {{ end }}
+
+                    {{$theUrl := $url.Get "url"}}
+
+
+                <!-- portfolio item -->
+                <div class="portfolio-item no-overlay {{ range .categories }}ct-{{ . }} {{ end }}">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-image">
+                            <a href="{{$theUrl}}"><img src="https://azhzuyujdm.cloudimg.io/width/359/x/https://dearevelina.com{{.picture}}" alt=""></a>
+                        </div>
+                        <div class="portfolio-description">
+                             
+
+                              
+                            <a href="{{$theUrl}}">
+                                <h3>{{ .name}}</h3>
+                                <p>{{.description}}</p>
+                                {{ if (ne $theUrl "") }}<span>✮ Buy ✮</span>{{ end }}
+                            </a>
+                        </div>
+                    </div>
                 </div>
-                <!-- end: Blog -->
+                <!-- end: portfolio item -->
+
+                {{end}}
+
 
             </div>
-            <!-- end: post content -->
+            <!-- end: Portfolio -->
 
-        </section>
-        <!-- end: Content -->
-        
-        {{ partial "footer" . }}
+        </div>
+    </section>
+    <!-- end: Content -->
 
-    </div>
-    <!-- end: Body Inner -->
+    {{ partial "footer" . }}
 
-    <!-- Scroll top -->
-    <a id="scrollTop"><i class="icon-chevron-up1"></i><i class="icon-chevron-up1"></i></a>
+</div>
+<!-- end: Body Inner -->
 
-    <!--Plugins-->
-    <script src="/polo/js/jquery.js"></script>
-    <script src="/polo/js/plugins.js"></script>
+<!-- Scroll top -->
+<a id="scrollTop"><i class="icon-chevron-up1"></i><i class="icon-chevron-up1"></i></a>
 
-    <!--Template functions-->
-    <script src="/polo/js/functions.js"></script>
+<!--Plugins-->
+<script src="/polo/js/jquery.js"></script>
+<script src="/polo/js/plugins.js"></script>
+
+<!--Template functions-->
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="/polo/js/functions.js"></script>
 
 
-{{ end }}
+
+
+    {{ end }}

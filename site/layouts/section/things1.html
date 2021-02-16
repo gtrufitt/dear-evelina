@@ -1,0 +1,88 @@
+{{ define "main" }}
+    <!-- Stylesheets & Fonts --><link href="/polo/css/plugins.css" rel="stylesheet">
+    <link href="/polo/css/style.css" rel="stylesheet">
+    <link href="/polo/css/responsive.css" rel="stylesheet"> 
+
+    <style>
+    .container {
+        padding-top: 60px;
+    }
+    </style>
+
+    {{partial "fixed-header"}}
+
+    <!-- Body Inner -->    <div class="body-inner">
+
+        <!-- Content -->
+        <section id="page-content">
+            <div class="container">
+                <!-- post content -->
+                <h1>Dear Evelina - Things</h1>
+                <!-- Blog -->
+                <div id="blog" class="grid-layout post-3-columns m-b-30" data-item="post-item">
+                    
+                {{ range .Params.things }}
+
+                    {{$url := newScratch}}
+                    {{ $url.Set "url" .url }}
+                    {{ if in ($url.Get "url") "amazon" }}
+                        {{ $url.Set "url" (print ($url.Get "url") "?tag=dearevelina-21") }}
+                    {{ end }}
+
+                    {{$theUrl := $url.Get "url"}}
+
+
+                    
+                        <!-- Post item YouTube-->
+                        <div class="post-item border">
+                            <div class="post-item-wrap">
+                                <div class="post-image">
+                                    <img src="https://dearevelina.com{{.picture}}?nf_resize=smartcrop&h=180&w=354" alt="Photo of {{.name}}">
+                                    <span class="post-meta-category"><a href="">{{.category}}</a></span>
+                                </div>
+                                <div class="post-item-description">
+                                    <h2>
+
+                                            
+                                        
+                                        {{ if (ne $theUrl "") }}
+                                            <a href="{{$theUrl}}">{{ .name}}</a>
+                                        {{ else }}
+                                            {{.name}}
+                                        {{ end }}
+                                        
+                                        </h2>
+                                    <p>{{.description}}</p>
+                                    {{ if (ne $theUrl "") }}<a href="{{$theUrl}}" class="item-link">Buy</a>{{ end }}
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end: Post item YouTube-->
+                    {{end}}
+                </div>
+                <!-- end: Blog -->
+
+            </div>
+            <!-- end: post content -->
+
+        </section>
+        <!-- end: Content -->
+        
+        {{ partial "footer" . }}
+
+    </div>
+    <!-- end: Body Inner -->
+
+    <!-- Scroll top -->
+    <a id="scrollTop"><i class="icon-chevron-up1"></i><i class="icon-chevron-up1"></i></a>
+
+    <!--Plugins-->
+    <script src="/polo/js/jquery.js"></script>
+    <script src="/polo/js/plugins.js"></script>
+
+    <!--Template functions-->
+    <script src="/polo/js/functions.js"></script>
+
+
+{{ end }}
