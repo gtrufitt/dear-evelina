@@ -7,3 +7,9 @@
 
 [context.deploy-preview]
   command = "yarn build-preview"
+
+[[redirects]]
+  from = "/eyegaze"
+  to = "https://www.justgiving.com/fundraising/evelinas-eye-gaze"
+  status = 301
+  force = false
