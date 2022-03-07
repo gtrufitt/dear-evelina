@@ -1,7 +1,7 @@
 +++
 description = "Evelina's Things"
 [[things]]
-categories = ["Travel", "Featured"]
+categories = ["travel", "featured"]
 description = "Evelina uses this table all the time, especially when travelling, it tilts and is height adjustable."
 name = "Adjustable play table "
 picture = "/img/24f67a9b-e98b-40c5-a0c4-dfd7b9a7a1ad.jpeg"
