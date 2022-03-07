@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["Travel", "Featured"]
+description = "Evelina uses this table all the time, especially when travelling, it tilts and is height adjustable."
+name = "Adjustable play table "
+picture = "/img/24f67a9b-e98b-40c5-a0c4-dfd7b9a7a1ad.jpeg"
+url = "https://www.amazon.co.uk/dp/B07VPGFM8Z/ref=cm_sw_r_cp_api_glc_i_XMS98FZ6VDXE3341CTZY"
+[[things]]
 categories = ["sensory", "toys", "vision", "featured"]
 description = "This bounces and plays music - Evelina loves it."
 name = "Gravity Ball"
