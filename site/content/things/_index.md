@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["featured", "physio", "travel", "therapy"]
+description = "This lets Evelina lean forward safely to splash her legs. We bought size L (Evelina is 3.5yrs & 11.3kg)"
+name = "Swim float"
+picture = "/img/0b49ae1d-8a53-4cac-92db-6c20cc3f9343.jpeg"
+url = "https://www.amazon.co.uk/dp/B07NYPCD35/ref=cm_sw_r_awdo_SA4JDPQTDTH04G3Y6K7W"
+[[things]]
 categories = ["travel", "featured"]
 description = "Evelina uses this table all the time, especially when travelling, it tilts and is height adjustable."
 name = "Adjustable play table "
