@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["sensory", "physio", "toys"]
+description = "Evelina loves this in her stander. It's nice and light for her to do herself"
+name = "Magnetic Fish"
+picture = "/img/img_9593.HEIC"
+url = "https://www.amazon.co.uk/Jaques-London-Magnetic-Fishing-Game/dp/B07BSC7NCM/ref=sr_1_12"
+[[things]]
 categories = ["featured", "physio", "travel", "therapy"]
 description = "This lets Evelina lean forward safely to splash her legs. We bought size L (Evelina is 3.5yrs & 11.3kg)"
 name = "Swim float"
