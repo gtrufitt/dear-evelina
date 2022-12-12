@@ -1,6 +1,12 @@
 +++
 description = "Evelina's Things"
 [[things]]
+categories = ["Featured", "Stuff"]
+description = "Electric heat pad - warms up really quick. 3p an hour to run (2022)"
+name = "Heat Pad"
+picture = "/img/heatpad.png"
+url = "https://www.amazon.co.uk/gp/product/B09W45P357/ref=ppx_yo_dt_b_asin_title_o01_s00"
+[[things]]
 categories = ["sensory", "physio", "toys"]
 description = "Evelina loves this in her stander. It's nice and light for her to do herself"
 name = "Magnetic Fish"
