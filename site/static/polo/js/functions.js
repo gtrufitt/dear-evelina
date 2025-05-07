@@ -1384,6 +1384,10 @@ var INSPIRO = {},
                         var iso = elem.data('isotope');
                         elem.isotope('reveal', iso.items);
 
+                        elem.imagesLoaded().progress( function() {
+                            elem.isotope('layout');
+                          });
+
                     }, 100);
 
                     $(window).on('resize', function () {

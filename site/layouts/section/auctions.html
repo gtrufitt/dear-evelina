@@ -1,0 +1,201 @@
+{{ define "main" }}
+    <!-- Stylesheets & Fonts --><link href="/polo/css/plugins.css" rel="stylesheet">
+    <link href="/polo/css/style.css" rel="stylesheet">
+    <link href="/polo/css/responsive.css" rel="stylesheet"> 
+
+    <style>
+        .portfolio-description {
+            border-bottom: 1px solid #e6e6e6;
+        }
+    </style>
+
+{{ $cats := slice }}
+{{ range .Params.auctions }}
+        {{ range .categories }}
+            {{ $cats = $cats | append . }}
+        {{end}}
+{{end}}
+
+
+
+    <!-- Body Inner -->    
+    <div class="body-inner">
+<!-- Content -->
+<section id="page-content">
+        <div class="container">
+            <h1>Evelina's Secret Auction</h1>
+            <p>Raising funds for <a href="https://www.justgiving.com/fundraising/evelina-no-tube" style="text-decoration: underline;">Evelina's trip to NoTube</a> via Just4Children.</p>
+            
+            <!-- <div class="countdown">
+            <h3>Bidding closes in</h3>
+            <ul>
+              <li><span id="days"></span>days</li>
+              <li><span id="hours"></span>Hours</li>
+              <li><span id="minutes"></span>Minutes</li>
+              <li><span id="seconds"></span>Seconds</li>
+            </ul>
+          </div> -->
+
+          <h3>Bidding is closed.</h3>
+          <p>Thank you for supporting Evelina! Congratulations to the winners, you will be contacted shortly.</p>
+
+            <!-- Portfolio -->
+            <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="20">
+                {{ range .Params.auctions }}
+
+                <!-- portfolio item -->
+                <div class="portfolio-item no-overlay {{ range .categories }}ct-{{ . }} {{ end }}">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-image">
+                            <!-- <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#"> -->
+                                <a>
+                                <img src="https://azhzuyujdm.cloudimg.io/v7/dearevelina.com{{.picture}}?w=720&q=70&force_format=jpeg&sharp=1" width="356" alt="{{ .name}}">
+                                </a>
+                            <!-- </a> -->
+                        </div>
+                        <div class="portfolio-description">
+                             
+
+                              
+                            <!-- <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#"> -->
+                                <a>
+                                <h3>{{ .name}} (Lot {{ .lotnumber}})</h3>
+                                <p>{{.description}}</p>
+                                <!-- <a data-target="#modal-{{ .lotnumber}}" data-toggle="modal" href="#">✨Bid Now ✨</a>  -->
+                            </a>    
+                            <!-- </a> -->
+                        </div>
+                    </div>
+                </div>
+                <!-- end: portfolio item -->
+
+                {{end}}
+
+
+            </div>
+            <!-- end: Portfolio -->
+
+            <p>In a secret auction you can’t see the other bids - place the highest bid you’d be willing to pay and when the countdown ends the highest will win the prize.</p>
+            <p>When the auction ends, if the highest bid on any lot is duplicated, the earliest bid will win.</p>
+<p><a style="text-decoration: underline;" href="https://docs.google.com/document/d/17TEdrh8KOUl63IaU8vD40yeSKC5U_Hk2Kb4WaYaDDlQ/preview">Please read the secret auction T&Cs before bidding.</a></p>
+
+        </div>
+    </section>
+    <!-- end: Content -->
+
+    {{ partial "footer" . }}
+
+</div>
+<!-- end: Body Inner -->
+
+
+{{ range .Params.auctions }}
+ <!--Modal large -->
+ <!-- <div class="modal fade" id="modal-{{ .lotnumber}}" tabindex="-1" role="modal" aria-labelledby="modal-label-{{ .lotnumber}}"
+ aria-hidden="true">
+ <div class="modal-dialog modal-lg">
+     <div class="modal-content">
+         <div class="modal-header">
+             <h4 id="modal-label-{{ .lotnumber}}" class="modal-title">Bid on {{ .name}}</h4>
+             <button aria-hidden="true" data-dismiss="modal" class="close" type="button">×</button>
+         </div>
+         <div class="modal-body">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdMDQRCNJQtUFErf6PS_6bGm6icfkjUxb4nwzbsb66X-FMeDQ/viewform?entry.757340383={{ .lotnumber}}" frameborder="0"></iframe>
+         </div>
+         <div class="modal-footer">
+             <button data-dismiss="modal" class="btn btn-b" type="button">Close</button>
+         </div>
+     </div>
+ </div>
+</div> -->
+<!-- end: Modal large -->
+{{end}}
+
+
+
+
+<!-- Scroll top -->
+<a id="scrollTop"><i class="icon-chevron-up1"></i><i class="icon-chevron-up1"></i></a>
+
+<!--Plugins-->
+<script src="/polo/js/jquery.js"></script>
+<script src="/polo/js/plugins.js"></script>
+
+<!--Template functions-->
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="/polo/js/functions.js"></script>
+
+<!-- <script>
+const second = 1000,
+      minute = second * 60,
+      hour = minute * 60,
+      day = hour * 24;
+
+let countDown = new Date('Feb 28, 2020 21:00:00').getTime(),
+    x = setInterval(function() {
+
+      let now = new Date().getTime(),
+          distance = countDown - now;
+
+      document.getElementById('days').innerText = Math.floor(distance / (day)),
+        document.getElementById('hours').innerText = Math.floor((distance % (day)) / (hour)),
+        document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
+        document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
+      
+      //do something later when date is reached
+      //if (distance < 0) {
+      //  clearInterval(x);
+      //  'IT'S MY BIRTHDAY!;
+      //}
+
+    }, second)
+</script> -->
+
+<style>
+
+/* .modal-body {
+    -webkit-overflow-scrolling:touch; 
+    overflow:auto;
+}
+
+.modal iframe {
+    width: 100%;
+    height: 75vh;
+} */
+
+/* // .countdown {
+//     margin-bottom: 20px;
+// }
+
+// .countdown h3 {
+//     margin-bottom: 0;
+// }
+
+// .countdown li {
+//   display: inline-block;
+//   font-size: 1em;
+//   list-style-type: none;
+//   margin-right: 15px;
+//   padding: 0;
+//   text-transform: uppercase;
+// }
+
+// @media only screen and (min-width: 600px) {
+//     .countdown li {
+//         font-size: 2em;
+//     }
+// }
+
+// .countdown li span {
+//   display: block;
+//   font-size: 2em;
+//   line-height: 1em;
+// }
+
+// .countdown li span:before {
+//     display: none;
+// } */
+</style>
+
+
+    {{ end }}
